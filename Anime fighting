@@ -1335,6 +1335,10 @@ function SCRIPT_0000YEV855_FAKESCRIPT() -- Dimension 1 paramètre
 		speed_2.Visible = true
 		dim.Text = "Dimension 1"
 
+		fanime.Visible = true
+		TextLabel_2.Visible = false
+		cfalos.Visible = false
+		Dimension1.Visible = true
 
 		_1BY.Visible = true
 		TextButton_2.Visible = true
@@ -1923,6 +1927,11 @@ function SCRIPT_0000YYEV855_FAKESCRIPT() -- Dimension 2 paramètre
 		agui.Visible = false
 		speed_2.Visible = false
 		dim.Text = "Dimension 2"
+
+		fanime.Visible = true
+		TextLabel_2.Visible = false
+		cfalos.Visible = false
+		Dimension1.Visible = true 
 
 		chacra.Name = "chacra"
 		chacra.Parent = Dimension1

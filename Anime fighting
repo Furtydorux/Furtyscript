@@ -1,1850 +1,1850 @@
-				local Fighting_2 = Instance.new("TextButton")
-				local fightinig = Instance.new("Frame")
-				local minig = Instance.new("TextButton")
-				local super = Instance.new("TextButton")
-				local anime = Instance.new("TextButton")
-				local fanime = Instance.new("Frame")
-				local dim = Instance.new("TextButton")
-				local _1 = Instance.new("TextButton")
-				local precedant_2 = Instance.new("TextButton")
-				local precedant_3 = Instance.new("TextButton")
-				local precedant_4 = Instance.new("TextButton")
-				local precedant_5 = Instance.new("TextButton")
-				local _1_2 = Instance.new("TextButton")
-				local suivant_2 = Instance.new("TextButton")
-				local suivant_3 = Instance.new("TextButton")
-				local suivant_4 = Instance.new("TextButton")
-				local suivant_5 = Instance.new("TextButton")
-				local closeda = Instance.new("TextButton")
-				local dima = Instance.new("TextBox")
-				local Dimension1 = Instance.new("Frame")
-				local agui = Instance.new("TextButton")
-				local chacra = Instance.new("TextButton")
-				local dura = Instance.new("TextButton")
-				local me = Instance.new("TextButton")
-				local personnages = Instance.new("TextButton")
-				local ph = Instance.new("TextButton")
-				local speed_2 = Instance.new("TextButton")
-				local activith = Instance.new("TextLabel")
-				local Emplacement = Instance.new("TextLabel")
-				local dura_2 = Instance.new("Frame")
-				local _1T = Instance.new("TextButton")
-				local _100T = Instance.new("TextButton")
-				local _1QD = Instance.new("TextButton")
-				local _100QD = Instance.new("TextButton")
-				local _10M = Instance.new("TextButton")
-				local _100M = Instance.new("TextButton")
-				local _1B = Instance.new("TextButton")
-				local _100B = Instance.new("TextButton")
-				local chakra = Instance.new("Frame")
-				local _1TY = Instance.new("TextButton")
-				local _100TY = Instance.new("TextButton")
-				local _1QDY = Instance.new("TextButton")
-				local _100QDY = Instance.new("TextButton")
-				local _1MY = Instance.new("TextButton")
-				local _100MY = Instance.new("TextButton")
-				local _1BY = Instance.new("TextButton")
-				local TextButton_2 = Instance.new("TextButton")
-				local peso = Instance.new("Frame")
-				local boum = Instance.new("TextButton")
-				local kaneki = Instance.new("TextButton")
-				local style = Instance.new("TextButton")
-				local grimoire = Instance.new("TextButton")
-				local gio = Instance.new("TextButton")
-				local goules = Instance.new ("TextButton")
-				local aitr = Instance.new("TextButton")
-				local aqui = Instance.new("TextButton")
-				local ph_2 = Instance.new("Frame")
-				local _1TX = Instance.new("TextButton")
-				local _100TX = Instance.new("TextButton")
-				local _1QDX = Instance.new("TextButton")
-				local _100QDX = Instance.new("TextButton")
-				local _1MX = Instance.new("TextButton")
-				local _100MX = Instance.new("TextButton")
-				local _1BX = Instance.new("TextButton")
-				local _100BX = Instance.new("TextButton")
-				local menue = Instance.new("Frame")
-				local ara = Instance.new("TextButton")
-				local tpto_2 = Instance.new("TextButton")
-				local agi = Instance.new("Frame")
-				local ag1 = Instance.new("TextButton")
-				local ag2 = Instance.new("TextButton")
-				local ag3 = Instance.new("TextButton")
-				local spped = Instance.new("Frame")
-				local sp1 = Instance.new("TextButton")
-				local sp2 = Instance.new("TextButton")
-				local sp3 = Instance.new("TextButton")
-				local TextLabel_2 = Instance.new("TextLabel")
-				local cfalos = Instance.new("TextButton")
+			local Fighting_2 = Instance.new("TextButton")
+			local fightinig = Instance.new("Frame")
+			local minig = Instance.new("TextButton")
+			local super = Instance.new("TextButton")
+			local anime = Instance.new("TextButton")
+			local fanime = Instance.new("Frame")
+			local dim = Instance.new("TextButton")
+			local _1 = Instance.new("TextButton")
+			local precedant_2 = Instance.new("TextButton")
+			local precedant_3 = Instance.new("TextButton")
+			local precedant_4 = Instance.new("TextButton")
+			local precedant_5 = Instance.new("TextButton")
+			local _1_2 = Instance.new("TextButton")
+			local suivant_2 = Instance.new("TextButton")
+			local suivant_3 = Instance.new("TextButton")
+			local suivant_4 = Instance.new("TextButton")
+			local suivant_5 = Instance.new("TextButton")
+			local closeda = Instance.new("TextButton")
+			local dima = Instance.new("TextBox")
+			local Dimension1 = Instance.new("Frame")
+			local agui = Instance.new("TextButton")
+			local chacra = Instance.new("TextButton")
+			local dura = Instance.new("TextButton")
+			local me = Instance.new("TextButton")
+			local personnages = Instance.new("TextButton")
+			local ph = Instance.new("TextButton")
+			local speed_2 = Instance.new("TextButton")
+			local activith = Instance.new("TextLabel")
+			local Emplacement = Instance.new("TextLabel")
+			local dura_2 = Instance.new("Frame")
+			local _1T = Instance.new("TextButton")
+			local _100T = Instance.new("TextButton")
+			local _1QD = Instance.new("TextButton")
+			local _100QD = Instance.new("TextButton")
+			local _10M = Instance.new("TextButton")
+			local _100M = Instance.new("TextButton")
+			local _1B = Instance.new("TextButton")
+			local _100B = Instance.new("TextButton")
+			local chakra = Instance.new("Frame")
+			local _1TY = Instance.new("TextButton")
+			local _100TY = Instance.new("TextButton")
+			local _1QDY = Instance.new("TextButton")
+			local _100QDY = Instance.new("TextButton")
+			local _1MY = Instance.new("TextButton")
+			local _100MY = Instance.new("TextButton")
+			local _1BY = Instance.new("TextButton")
+			local TextButton_2 = Instance.new("TextButton")
+			local peso = Instance.new("Frame")
+			local boum = Instance.new("TextButton")
+			local kaneki = Instance.new("TextButton")
+			local style = Instance.new("TextButton")
+			local grimoire = Instance.new("TextButton")
+			local gio = Instance.new("TextButton")
+			local goules = Instance.new ("TextButton")
+			local aitr = Instance.new("TextButton")
+			local aqui = Instance.new("TextButton")
+			local ph_2 = Instance.new("Frame")
+			local _1TX = Instance.new("TextButton")
+			local _100TX = Instance.new("TextButton")
+			local _1QDX = Instance.new("TextButton")
+			local _100QDX = Instance.new("TextButton")
+			local _1MX = Instance.new("TextButton")
+			local _100MX = Instance.new("TextButton")
+			local _1BX = Instance.new("TextButton")
+			local _100BX = Instance.new("TextButton")
+			local menue = Instance.new("Frame")
+			local ara = Instance.new("TextButton")
+			local tpto_2 = Instance.new("TextButton")
+			local agi = Instance.new("Frame")
+			local ag1 = Instance.new("TextButton")
+			local ag2 = Instance.new("TextButton")
+			local ag3 = Instance.new("TextButton")
+			local spped = Instance.new("Frame")
+			local sp1 = Instance.new("TextButton")
+			local sp2 = Instance.new("TextButton")
+			local sp3 = Instance.new("TextButton")
+			local TextLabel_2 = Instance.new("TextLabel")
+			local cfalos = Instance.new("TextButton")
 
-				Fighting_2.Name = "Fighting"
-				Fighting_2.Parent = GameHub
-				Fighting_2.BackgroundColor3 = Color3.fromRGB(85, 0, 255)
-				Fighting_2.Position = UDim2.new(0.0131940776, 0, 0.414197803, 0)
-				Fighting_2.Size = UDim2.new(0, 276, 0, 25)
-				Fighting_2.Font = Enum.Font.SourceSans
-				Fighting_2.Text = "Fightinig  simulator"
-				Fighting_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				Fighting_2.TextSize = 14.000
-				Fighting_2.Visible = true
-				Fighting_2.MouseButton1Down:connect(function()
-					fightinig.Visible = true
-				end)
-
-				fightinig.Name = "fightinig"
-				fightinig.Parent = GameHub
-				fightinig.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				fightinig.Size = UDim2.new(0, 279, 0, 353)
+			Fighting_2.Name = "Fighting"
+			Fighting_2.Parent = GameHub
+			Fighting_2.BackgroundColor3 = Color3.fromRGB(85, 0, 255)
+			Fighting_2.Position = UDim2.new(0.0131940776, 0, 0.414197803, 0)
+			Fighting_2.Size = UDim2.new(0, 276, 0, 25)
+			Fighting_2.Font = Enum.Font.SourceSans
+			Fighting_2.Text = "Fightinig  simulator"
+			Fighting_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Fighting_2.TextSize = 14.000
+			Fighting_2.Visible = true
+			Fighting_2.MouseButton1Down:connect(function()
 				fightinig.Visible = true
+			end)
 
-				minig.Name = "minig"
-				minig.Parent = fightinig
-				minig.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
-				minig.Position = UDim2.new(0.00239409856, 0, 0.275963902, 0)
-				minig.Size = UDim2.new(0, 279, 0, 30)
-				minig.Font = Enum.Font.SourceSans
-				minig.Text = "Mining simulator"
-				minig.TextColor3 = Color3.fromRGB(0, 0, 0)
-				minig.TextSize = 14.000
+			fightinig.Name = "fightinig"
+			fightinig.Parent = GameHub
+			fightinig.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			fightinig.Size = UDim2.new(0, 279, 0, 353)
+			fightinig.Visible = true
 
-				super.Name = "super"
-				super.Parent = fightinig
-				super.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
-				super.Position = UDim2.new(0.00239409879, 0, 0.187100843, 0)
-				super.Size = UDim2.new(0, 278, 0, 31)
-				super.Font = Enum.Font.SourceSans
-				super.Text = "Super Power Fighting Simulator"
-				super.TextColor3 = Color3.fromRGB(0, 0, 0)
-				super.TextSize = 14.000
-				super.MouseButton1Down:connect(function()
-					local Plr = game:GetService("Players").LocalPlayer
-					local Mouse = Plr:GetMouse()
+			minig.Name = "minig"
+			minig.Parent = fightinig
+			minig.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+			minig.Position = UDim2.new(0.00239409856, 0, 0.275963902, 0)
+			minig.Size = UDim2.new(0, 279, 0, 30)
+			minig.Font = Enum.Font.SourceSans
+			minig.Text = "Mining simulator"
+			minig.TextColor3 = Color3.fromRGB(0, 0, 0)
+			minig.TextSize = 14.000
 
-					Mouse.Button1Down:connect(function()
-						if not game:GetService("UserInputService"):IsKeyDown(Enum.KeyCode.V) then return end
-						if not Mouse.Target then return end
-						Plr.Character:MoveTo(Mouse.Hit.p)
-					end)
+			super.Name = "super"
+			super.Parent = fightinig
+			super.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+			super.Position = UDim2.new(0.00239409879, 0, 0.187100843, 0)
+			super.Size = UDim2.new(0, 278, 0, 31)
+			super.Font = Enum.Font.SourceSans
+			super.Text = "Super Power Fighting Simulator"
+			super.TextColor3 = Color3.fromRGB(0, 0, 0)
+			super.TextSize = 14.000
+			super.MouseButton1Down:connect(function()
+				local Plr = game:GetService("Players").LocalPlayer
+				local Mouse = Plr:GetMouse()
+
+				Mouse.Button1Down:connect(function()
+					if not game:GetService("UserInputService"):IsKeyDown(Enum.KeyCode.V) then return end
+					if not Mouse.Target then return end
+					Plr.Character:MoveTo(Mouse.Hit.p)
 				end)
-
-				anime.Name = "anime"
-				anime.Parent = fightinig
-				anime.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
-				anime.Position = UDim2.new(0.00239409856, 0, 0.10599222, 0)
-				anime.Size = UDim2.new(0, 279, 0, 30)
-				anime.Font = Enum.Font.SourceSans
-				anime.Text = "Anime fighting"
-				anime.TextColor3 = Color3.fromRGB(0, 0, 0)
-				anime.TextSize = 14.000
-				anime.MouseButton1Down:connect(function()
-
-				end)
-
-				fanime.Name = "fanime"
-				fanime.Parent = fightinig
-				fanime.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				fanime.Size = UDim2.new(0, 279, 0, 353)
-				fanime.Visible = true
-
-				dim.Name = "Dimension 2"
-				dim.Parent = fanime
-				dim.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				dim.Position = UDim2.new(0.109920979, 0, 0, 0)
-				dim.Size = UDim2.new(0, 186, 0, 17)
-				dim.Font = Enum.Font.SourceSans
-				dim.Text = "Dimension 1"
-				dim.TextColor3 = Color3.fromRGB(0, 0, 0)
-				dim.TextSize = 14.000
-				dim.MouseButton1Down:connect(function()
-					Dimension1.Visible = true
-					dima.Text = dim.Text
-
-
-				end)
-
-				function SCRIPT_0000YEV855_FAKESCRIPT() -- Dimension 1 paramètre
-					if game.PlaceId == 4042427666 then
-
-						agui.Visible = true
-						speed_2.Visible = true
-						dim.Text = "Dimension 1"
-
-						fanime.Visible = true
-						TextLabel_2.Visible = false
-						cfalos.Visible = false
-						Dimension1.Visible = true
-
-						_1BY.Visible = true
-						TextButton_2.Visible = true
-						_1MY.Visible = true
-						_100MY.Visible = true
-						_1TY.Visible = true
-						_100TY.Visible = true
-						_1QDY.Visible = true
-						_100QDY.Visible = true
-
-
-						_1B.Visible = true
-						_100B.Visible = true
-						_10M.Visible = true
-						_100M.Visible = true
-						_1T.Visible = true
-						_100T.Visible = true
-						_1QD.Visible = true
-						_100QD.Visible = true
-
-						_1BX.Visible = true
-						_100BX.Visible = true
-						_1MX.Visible = true
-						_100MX.Visible = true
-						_1TX.Visible = true
-						_100TX.Visible = true
-						_1QDX.Visible = true
-						_100QDX.Visible = true
-
-						_1T.Name = "1T"
-						_1T.Parent = dura_2
-						_1T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1T.Position = UDim2.new(0.00250698067, 0, 0, 0)
-						_1T.Size = UDim2.new(0, 278, 0, 24)
-						_1T.Font = Enum.Font.SourceSans
-						_1T.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1T.TextSize = 14.000
-						_1T.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(154.110672, 62.2016296, 897.953491)
-						end)
-
-
-						_100T.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1649.09094, 81.2910385, -520.585205)
-						end)
-						_1QD.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.1687126, 91.9289398, 2051.74023)
-						end)
-						_100QD.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-594.966248, 179.007492, 758.308777)
-						end)
-						_10M.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1063.38184, 232.660568, -925.705322)
-						end)
-						_100M.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-297.022339, 62.0075226, -1642.8175)
-						end)
-						_1B.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2481.72656, 1536.79858, -375.608459)
-						end)
-						_100B.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2748.29565, -224.334229, 328.509583)
-						end)
-
-						_1TY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 25, 65.0075073, -99)
-						end)
-						_100TY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 1455, 147.007492, -563)
-						end)
-						_1QDY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 942.700928, 141.007492, 800.052185)
-						end)
-						_100QDY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 1620.98157, 564.207397, 599.472961)
-						end)
-						_1MY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 365.164063, -139.78212, -1800.6438)
-						end)
-						_100MY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1050, 251.007492, -600)
-						end)
-						_1BY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3084, 111.088074, 1124)
-						end)
-						TextButton_2.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1572.25464, 1000.77905, 1922.29895)
-						end)
-
-						_1TX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(24.9463501, 65.4823532, 150.925461)
-						end)
-						_100TX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1372.49512, 191.007507, -119.509895)
-						end)
-						_1QDX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1228.63989, 59.0075188, 504.896271)
-						end)
-						_100QDX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-872.565186, 81.8603363, 194.368378)
-						end)
-						_1MX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2211.10156, 617.69696, 537.196411)
-						end)
-						_100MX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-6, 71.0075073, -1285)
-						end)
-						_1BX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(755, 149.984329, 952)
-						end)
-						_100BX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1881.43872, 141.207504, 109.296883)
-						end)
-
-
-						_1T.Text = "100 navire pirate"
-						_100T.Text = "10k Ile du désert"
-						_1QD.Text = "100 k rocher enneiger"
-						_100QD.Text = "1M Patte"
-						_10M.Text = "10M Volcano"
-						_100M.Text = "100M Fausse de flame Noir"
-						_1B.Text = "1B Planète"
-						_100B.Text = "100B Chambre of TIme"
-						_1TY.Text = "500 Arbre spirituel"
-						_100TY.Text = "15k Livre de la mort"
-						_1QDY.Text = "150k Chute d'eau de la Vérité"
-						_100QDY.Text = "1.5M Temple"
-						_1MY.Text = "15M Statue de renard démon"
-						_100MY.Text = "250M Arbre Sakura"
-						_1BY.Text = "1B Plateforme de Méditation Sauge"
-						TextButton_2.Text = "100B Tour du ciel"
-						_1TX.Text = "100 manequin"
-						_100TX.Text = "10k Gym"
-						_1QDX.Text = "100k Plage"
-						_100QDX.Text = "1M Météore"
-						_1MX.Text = "10M Lokout Island "
-						_100MX.Text = "100M Arena"
-						_1BX.Text = "1B Excalibur"
-						_100BX.Text = "100B Monstre"
-
-						chacra.Name = "chacra"
-						chacra.Parent = Dimension1
-						chacra.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						chacra.Position = UDim2.new(0.00239409856, 0, 0.166058004, 0)
-						chacra.Size = UDim2.new(0, 74, 0, 29)
-						chacra.Font = Enum.Font.SourceSans
-						chacra.Text = "chakra"
-						chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-						chacra.TextSize = 14.000
-
-
-						dura.Name = "dura"
-						dura.Parent = Dimension1
-						dura.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						dura.Position = UDim2.new(0.394265294, 0, 0.0682492554, 0)
-						dura.Size = UDim2.new(0, 79, 0, 31)
-						dura.Font = Enum.Font.SourceSans
-						dura.Text = "durability"
-						dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-						dura.TextSize = 14.000
-
-						me.Name = "me"
-						me.Parent = Dimension1
-						me.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						me.Position = UDim2.new(0.541306019, 0, 0.166058004, 0)
-						me.Size = UDim2.new(0, 55, 0, 29)
-						me.Font = Enum.Font.SourceSans
-						me.Text = "menue"
-						me.TextColor3 = Color3.fromRGB(0, 0, 0)
-						me.TextSize = 14.000
-
-
-						agui.Name = "agui"
-						agui.Parent = Dimension1
-						agui.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						agui.Position = UDim2.new(0.738438606, 0, 0.160237387, 0)
-						agui.Size = UDim2.new(0, 73, 0, 31)
-						agui.Font = Enum.Font.SourceSans
-						agui.Text = "Agilite"
-						agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-						agui.TextSize = 14.000
-						agui.MouseButton1Down:connect(function()
-							agi.Visible = true
-							chakra.Visible = false
-							dura_2.Visible = false
-							menue.Visible = false
-							peso.Visible = false
-							ph_2.Visible = false
-							spped.Visible = false
-							agui.TextColor3 = Color3.fromRGB(255, 0, 0)
-							chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-							dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-							me.TextColor3 = Color3.fromRGB(0, 0, 0)
-							personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-							ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-							speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-						end)
-
-						personnages.Name = "personnages"
-						personnages.Parent = Dimension1
-						personnages.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						personnages.Position = UDim2.new(0.277974725, 0, 0.166058004, 0)
-						personnages.Size = UDim2.new(0, 74, 0, 29)
-						personnages.Font = Enum.Font.SourceSans
-						personnages.Text = "personnages"
-						personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-						personnages.TextSize = 14.000
-						personnages.MouseButton1Down:connect(function()
-							agi.Visible = false
-							chakra.Visible = false
-							dura_2.Visible = false
-							menue.Visible = false
-							peso.Visible = true
-							ph_2.Visible = false
-							spped.Visible = false
-							agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-							chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-							dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-							me.TextColor3 = Color3.fromRGB(0, 0, 0)
-							personnages.TextColor3 = Color3.fromRGB(255, 0, 0)
-							ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-							speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-						end)
-
-						ph.Name = "ph"
-						ph.Parent = Dimension1
-						ph.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						ph.Position = UDim2.new(-0.000161119693, 0, 0.0682492554, 0)
-						ph.Size = UDim2.new(0, 111, 0, 31)
-						ph.Font = Enum.Font.SourceSans
-						ph.Text = "Force physique "
-						ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-						ph.TextSize = 14.000
-
-
-						speed_2.Name = "speed"
-						speed_2.Parent = Dimension1
-						speed_2.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						speed_2.Position = UDim2.new(0.677296579, 0, 0.0682492554, 0)
-						speed_2.Size = UDim2.new(0, 90, 0, 31)
-						speed_2.Font = Enum.Font.SourceSans
-						speed_2.Text = "vitesse"
-						speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-						speed_2.TextSize = 14.000
-						speed_2.MouseButton1Down:connect(function()
-							agi.Visible = false
-							chakra.Visible = false
-							dura_2.Visible = false
-							menue.Visible = false
-							peso.Visible = false
-							ph_2.Visible = false
-							spped.Visible = true
-							agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-							chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-							dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-							me.TextColor3 = Color3.fromRGB(0, 0, 0)
-							personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-							ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-							speed_2.TextColor3 = Color3.fromRGB(255, 0, 0)
-						end)
-
-						boum.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-0.306630641, 80.006546, 23.4061871)
-						end)
-						boum.Text = "Boom "
-
-						kaneki.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(44.1340256, 80.0065384, 20.2039814)
-						end)
-						kaneki.Text = "Wukong"
-
-						style.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-283.840118, 116.851013, -1147.35339)
-						end)
-						style.Text = "Style d'épée "
-
-						grimoire.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1069.26746, 141.571136, -959.470093)
-						end)
-						grimoire.Text = "grimoire"
-
-						gio.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(187.77446, 62.4075203, -213.89122)
-						end)
-						gio.Text = "giovanni"
-
-						goules.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1726.62427, 142.407501, -155.750015)
-						end)
-						goules.Text = "Goule"
-
-						aitr.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1353.10767, 69.1100082, -1701.56848)
-						end)
-						aitr.Text = "Maitre des épée"
-
-						aqui.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(63.4934196, 105.007515, 48.0045357)
-						end)
-						aqui.Text = "aquérir un champion"
-
-
-						_100T.Name = "100T"
-						_100T.Parent = dura_2
-						_100T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100T.Position = UDim2.new(0, 0, 0.100175016, 0)
-						_100T.Size = UDim2.new(0, 280, 0, 24)
-						_100T.Font = Enum.Font.SourceSans
-						_100T.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100T.TextSize = 14.000
-
-						_1QD.Name = "1QD"
-						_1QD.Parent = dura_2
-						_1QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1QD.Position = UDim2.new(-0.000232546139, 0, 0.213218495, 0)
-						_1QD.Size = UDim2.new(0, 279, 0, 28)
-						_1QD.Font = Enum.Font.SourceSans
-						_1QD.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1QD.TextSize = 14.000
-
-
-						_100QD.Name = "100QD"
-						_100QD.Parent = dura_2
-						_100QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100QD.Position = UDim2.new(0, 0, 0.340011477, 0)
-						_100QD.Size = UDim2.new(0, 280, 0, 32)
-						_100QD.Font = Enum.Font.SourceSans
-						_100QD.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100QD.TextSize = 14.000
-
-						_10M.Name = "10M"
-						_10M.Parent = dura_2
-						_10M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_10M.Position = UDim2.new(0.0017100235, 0, 0.479141891, 0)
-						_10M.Size = UDim2.new(0, 279, 0, 28)
-						_10M.Font = Enum.Font.SourceSans
-						_10M.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_10M.TextSize = 14.000
-
-						_100M.Name = "100M"
-						_100M.Parent = dura_2
-						_100M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100M.Position = UDim2.new(0, 0, 0.602375031, 0)
-						_100M.Size = UDim2.new(0, 280, 0, 28)
-						_100M.Font = Enum.Font.SourceSans
-						_100M.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100M.TextSize = 14.000
-
-						_1B.Name = "1B"
-						_1B.Parent = dura_2
-						_1B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1B.Position = UDim2.new(0.00250698067, 0, 0.87391305, 0)
-						_1B.Size = UDim2.new(0, 279, 0, 29)
-						_1B.Font = Enum.Font.SourceSans
-						_1B.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1B.TextSize = 14.000
-
-						_100B.Name = "100B"
-						_100B.Parent = dura_2
-						_100B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100B.Position = UDim2.new(0.00291388202, 0, 0.72786808, 0)
-						_100B.Size = UDim2.new(0, 279, 0, 33)
-						_100B.Font = Enum.Font.SourceSans
-						_100B.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100B.TextSize = 14.000
-
-						_1TY.Name = "1TY"
-						_1TY.Parent = chakra
-						_1TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1TY.Size = UDim2.new(0, 279, 0, 32)
-						_1TY.Font = Enum.Font.SourceSans
-						_1TY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1TY.TextSize = 14.000
-
-						_100TY.Name = "100TY"
-						_100TY.Parent = chakra
-						_100TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100TY.Position = UDim2.new(-0.00719424477, 0, 0.137931034, 0)
-						_100TY.Size = UDim2.new(0, 281, 0, 32)
-						_100TY.Font = Enum.Font.SourceSans
-						_100TY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100TY.TextSize = 14.000
-
-						_1QDY.Name = "1QDY"
-						_1QDY.Parent = chakra
-						_1QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1QDY.Position = UDim2.new(-0.00359712238, 0, 0.280579001, 0)
-						_1QDY.Size = UDim2.new(0, 280, 0, 27)
-						_1QDY.Font = Enum.Font.SourceSans
-						_1QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1QDY.TextSize = 14.000
-
-						_100QDY.Name = "100QDY"
-						_100QDY.Parent = chakra
-						_100QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100QDY.Position = UDim2.new(-0.00719424477, 0, 0.398910254, 0)
-						_100QDY.Size = UDim2.new(0, 280, 0, 27)
-						_100QDY.Font = Enum.Font.SourceSans
-						_100QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100QDY.TextSize = 14.000
-
-						_1MY.Name = "1MY"
-						_1MY.Parent = chakra
-						_1MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1MY.Position = UDim2.new(0, 0, 0.516834676, 0)
-						_1MY.Size = UDim2.new(0, 279, 0, 29)
-						_1MY.Font = Enum.Font.SourceSans
-						_1MY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1MY.TextSize = 14.000
-
-						_100MY.Name = "100MY"
-						_100MY.Parent = chakra
-						_100MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100MY.Position = UDim2.new(-0.00359714986, 0, 0.642566562, 0)
-						_100MY.Size = UDim2.new(0, 280, 0, 25)
-						_100MY.Font = Enum.Font.SourceSans
-						_100MY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100MY.TextSize = 14.000
-
-						_1BY.Name = "1BY"
-						_1BY.Parent = chakra
-						_1BY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1BY.Position = UDim2.new(-0.00359712238, 0, 0.751870513, 0)
-						_1BY.Size = UDim2.new(0, 280, 0, 25)
-						_1BY.Font = Enum.Font.SourceSans
-						_1BY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1BY.TextSize = 14.000
-
-						TextButton_2.Parent = chakra
-						TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						TextButton_2.Position = UDim2.new(0, 0, 0.862068951, 0)
-						TextButton_2.Size = UDim2.new(0, 278, 0, 32)
-						TextButton_2.Font = Enum.Font.SourceSans
-						TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-						TextButton_2.TextSize = 14.000
-
-						boum.Name = "boum"
-						boum.Parent = peso
-						boum.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						boum.Size = UDim2.new(0, 279, 0, 24)
-						boum.Font = Enum.Font.SourceSans
-						boum.TextColor3 = Color3.fromRGB(0, 0, 0)
-						boum.TextSize = 14.000
-
-						kaneki.Name = "kaneki"
-						kaneki.Parent = peso
-						kaneki.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						kaneki.Position = UDim2.new(-0.00358422939, 0, 0.210163996, 0)
-						kaneki.Size = UDim2.new(0, 280, 0, 30)
-						kaneki.Font = Enum.Font.SourceSans
-						kaneki.TextColor3 = Color3.fromRGB(0, 0, 0)
-						kaneki.TextSize = 14.000
-
-
-						style.Name = "style"
-						style.Parent = peso
-						style.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						style.Position = UDim2.new(0, 0, 0.716058612, 0)
-						style.Size = UDim2.new(0, 279, 0, 35)
-						style.Font = Enum.Font.SourceSans
-						style.TextColor3 = Color3.fromRGB(0, 0, 0)
-						style.TextSize = 14.000
-
-						grimoire.Name = "grimoire"
-						grimoire.Parent = peso
-						grimoire.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						grimoire.Position = UDim2.new(0, 0, 0.466358274, 0)
-						grimoire.Size = UDim2.new(0, 279, 0, 27)
-						grimoire.Font = Enum.Font.SourceSans
-						grimoire.TextColor3 = Color3.fromRGB(0, 0, 0)
-						grimoire.TextSize = 14.000
-
-						gio.Name = "gio"
-						gio.Parent = peso
-						gio.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						gio.Position = UDim2.new(0, 0, 0.579672039, 0)
-						gio.Size = UDim2.new(0, 279, 0, 32)
-						gio.Font = Enum.Font.SourceSans
-						gio.TextColor3 = Color3.fromRGB(0, 0, 0)
-						gio.TextSize = 14.000
-
-						goules.Name = "goule"
-						goules.Parent = peso
-						goules.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						goules.Position = UDim2.new(-0.00160348543, 0, 0.103896104, 0)
-						goules.Size = UDim2.new(0, 279, 0, 25)
-						goules.Font = Enum.Font.SourceSans
-						goules.TextColor3 = Color3.fromRGB(0, 0, 0)
-						goules.TextSize = 14.000
-
-						aitr.Name = "aitr"
-						aitr.Parent = peso
-						aitr.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						aitr.Position = UDim2.new(0.0048104017, 0, 0.340034127, 0)
-						aitr.Size = UDim2.new(0, 277, 0, 30)
-						aitr.Font = Enum.Font.SourceSans
-						aitr.TextColor3 = Color3.fromRGB(0, 0, 0)
-						aitr.TextSize = 14.000
-
-						aqui.Name = "aqui"
-						aqui.Parent = peso
-						aqui.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						aqui.Position = UDim2.new(-0.00358422939, 0, 0.858915806, 0)
-						aqui.Size = UDim2.new(0, 280, 0, 32)
-						aqui.Font = Enum.Font.SourceSans
-						aqui.TextColor3 = Color3.fromRGB(0, 0, 0)
-						aqui.TextSize = 14.000
-
-						_1TX.Name = "1TX"
-						_1TX.Parent = ph_2
-						_1TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1TX.Size = UDim2.new(0, 279, 0, 33)
-						_1TX.Font = Enum.Font.SourceSans
-						_1TX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1TX.TextSize = 14.000
-
-						_100TX.Name = "100TX"
-						_100TX.Parent = ph_2
-						_100TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100TX.Position = UDim2.new(0, 0, 0.263727903, 0)
-						_100TX.Size = UDim2.new(0, 279, 0, 26)
-						_100TX.Font = Enum.Font.SourceSans
-						_100TX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100TX.TextSize = 14.000
-
-						_1QDX.Name = "1QDX"
-						_1QDX.Parent = ph_2
-						_1QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1QDX.Position = UDim2.new(0, 0, 0.380269766, 0)
-						_1QDX.Size = UDim2.new(0, 279, 0, 26)
-						_1QDX.Font = Enum.Font.SourceSans
-						_1QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1QDX.TextSize = 14.000
-
-						_100QDX.Name = "100QDX"
-						_100QDX.Parent = ph_2
-						_100QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100QDX.Position = UDim2.new(0, 0, 0.496811628, 0)
-						_100QDX.Size = UDim2.new(0, 279, 0, 26)
-						_100QDX.Font = Enum.Font.SourceSans
-						_100QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100QDX.TextSize = 14.000
-
-						_1MX.Name = "1MX"
-						_1MX.Parent = ph_2
-						_1MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1MX.Position = UDim2.new(0, 0, 0.609761834, 0)
-						_1MX.Size = UDim2.new(0, 279, 0, 34)
-						_1MX.Font = Enum.Font.SourceSans
-						_1MX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1MX.TextSize = 14.000
-
-						_100MX.Name = "100MX"
-						_100MX.Parent = ph_2
-						_100MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100MX.Position = UDim2.new(0, 0, 0.758042872, 0)
-						_100MX.Size = UDim2.new(0, 279, 0, 26)
-						_100MX.Font = Enum.Font.SourceSans
-						_100MX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100MX.TextSize = 14.000
-
-						_1BX.Name = "1BX"
-						_1BX.Parent = ph_2
-						_1BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1BX.Position = UDim2.new(0.00268188259, 0, 0.142857149, 0)
-						_1BX.Size = UDim2.new(0, 277, 0, 27)
-						_1BX.Font = Enum.Font.SourceSans
-						_1BX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1BX.TextSize = 14.000
-
-						_100BX.Name = "100BX"
-						_100BX.Parent = ph_2
-						_100BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100BX.Position = UDim2.new(0.00478732213, 0, 0.874117494, 0)
-						_100BX.Size = UDim2.new(0, 278, 0, 29)
-						_100BX.Font = Enum.Font.SourceSans
-						_100BX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100BX.TextSize = 14.000
-					end
-				end
-				coroutine.resume(coroutine.create(SCRIPT_0000YEV855_FAKESCRIPT))
-
-				function SCRIPT_0000YYEV855_FAKESCRIPT() -- Dimension 2 paramètre
-					if game.PlaceId == 5113678354 then
-
-						agui.Visible = false
-						speed_2.Visible = false
-						TextLabel_2.Visible = false
-						cfalos.Visible = false
-						dim.Text = "Dimension 2"
-						
-						chacra.Name = "chacra"
-						chacra.Parent = Dimension1
-						chacra.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						chacra.Position = UDim2.new(0.00239409856, 0, 0.166058004, 0)
-						chacra.Size = UDim2.new(0, 84, 0, 29)
-						chacra.Font = Enum.Font.SourceSans
-						chacra.Text = "chakra"
-						chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-						chacra.TextSize = 14.000
-
-						dura.Name = "dura"
-						dura.Parent = Dimension1
-						dura.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						dura.Position = UDim2.new(0.519713283, 0, 0.0712166205, 0)
-						dura.Size = UDim2.new(0, 134, 0, 31)
-						dura.Font = Enum.Font.SourceSans
-						dura.Text = "durability"
-						dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-						dura.TextSize = 14.000
-
-						me.Name = "me"
-						me.Parent = Dimension1
-						me.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						me.Position = UDim2.new(0.630911767, 0, 0.166058004, 0)
-						me.Size = UDim2.new(0, 104, 0, 29)
-						me.Font = Enum.Font.SourceSans
-						me.Text = "menue"
-						me.TextColor3 = Color3.fromRGB(0, 0, 0)
-						me.TextSize = 14.000
-
-						personnages.Name = "personnages"
-						personnages.Parent = Dimension1
-						personnages.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						personnages.Position = UDim2.new(0.306648552, 0, 0.166058004, 0)
-						personnages.Size = UDim2.new(0, 90, 0, 29)
-						personnages.Font = Enum.Font.SourceSans
-						personnages.Text = "personnages"
-						personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-						personnages.TextSize = 14.000
-
-						ph.Name = "ph"
-						ph.Parent = Dimension1
-						ph.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-						ph.Position = UDim2.new(-0.000161119693, 0, 0.0682492554, 0)
-						ph.Size = UDim2.new(0, 151, 0, 31)
-						ph.Font = Enum.Font.SourceSans
-						ph.Text = "Force physique "
-						ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-						ph.TextSize = 14.000
-
-						_1TY.Name = "1TY"
-						_1TY.Parent = chakra
-						_1TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1TY.Size = UDim2.new(0, 279, 0, 59)
-						_1TY.Font = Enum.Font.SourceSans
-						_1TY.Text = "500 Arbre spirituel"
-						_1TY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1TY.TextSize = 14.000
-						_1TY.Text = "1T Bateau cerceuil"
-						_1TY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(188.089981, 77.5503387, 1411.86536)
-						end)
-
-						_100TY.Name = "100TY"
-						_100TY.Parent = chakra
-						_100TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100TY.Position = UDim2.new(-0.00359712238, 0, 0.25431034, 0)
-						_100TY.Size = UDim2.new(0, 281, 0, 55)
-						_100TY.Font = Enum.Font.SourceSans
-						_100TY.Text = "100T Anteiku"
-						_100TY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100TY.TextSize = 14.000
-						_100TY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2587.39673, 79.1357956, 913.013367)
-						end)
-
-						_1QDY.Name = "1QDY"
-						_1QDY.Parent = chakra
-						_1QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1QDY.Position = UDim2.new(0.00359712238, 0, 0.491786033, 0)
-						_1QDY.Size = UDim2.new(0, 280, 0, 58)
-						_1QDY.Font = Enum.Font.SourceSans
-						_1QDY.Text = "1QD Planète de Beerus"
-						_1QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1QDY.TextSize = 14.000
-						_1QDY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1468.45703, 1966.20313, 1414.0686)
-						end)
-
-						_100QDY.Name = "100QDY"
-						_100QDY.Parent = chakra
-						_100QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100QDY.Position = UDim2.new(0, 0, 0.743737817, 0)
-						_100QDY.Size = UDim2.new(0, 280, 0, 61)
-						_100QDY.Font = Enum.Font.SourceSans
-						_100QDY.Text = "100QD  Tsukuyomi infini"
-						_100QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100QDY.TextSize = 14.000
-						_100QDY.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3027.41553, 2024.37695, 824.885986)
-						end)
-
-						_1BY.Visible = false
-						TextButton_2.Visible = false
-						_1MY.Visible = false
-						_100MY.Visible = false
-						_1TY.Visible = true
-						_100TY.Visible = true
-						_1QDY.Visible = true
-						_100QDY.Visible = true
-
-						_1T.Name = "1T"
-						_1T.Parent = dura_2
-						_1T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1T.Size = UDim2.new(0, 279, 0, 59)
-						_1T.Font = Enum.Font.SourceSans
-						_1T.Text = "1T Titan colosalle "
-						_1T.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1T.TextSize = 14.000
-						_1T.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1806.83875, 331.224945, 1391.74048)
-						end)
-
-						_100T.Name = "100T"
-						_100T.Parent = dura_2
-						_100T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100T.Position = UDim2.new(-0.00359712238, 0, 0.25431034, 0)
-						_100T.Size = UDim2.new(0, 281, 0, 55)
-						_100T.Font = Enum.Font.SourceSans
-						_100T.Text = "100T Zone de roche gravito"
-						_100T.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100T.TextSize = 14.000
-						_100T.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3439.71582, 747.517639, -125.094833)
-						end)
-
-						_1QD.Name = "1QD"
-						_1QD.Parent = dura_2
-						_1QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1QD.Position = UDim2.new(0.00359712238, 0, 0.491786033, 0)
-						_1QD.Size = UDim2.new(0, 280, 0, 58)
-						_1QD.Font = Enum.Font.SourceSans
-						_1QD.Text = "1QD Palais de fer noir"
-						_1QD.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1QD.TextSize = 14.000
-						_1QD.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1067.46887, 231.007477, -2017.52673)
-						end)
-
-						_100QD.Name = "100QD"
-						_100QD.Parent = dura_2
-						_100QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100QD.Position = UDim2.new(0, 0, 0.743737817, 0)
-						_100QD.Size = UDim2.new(0, 280, 0, 61)
-						_100QD.Font = Enum.Font.SourceSans
-						_100QD.Text = "100QD Flame de crémation"
-						_100QD.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100QD.TextSize = 14.000
-						_100QD.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-757.624084, 61.0075188, 35.0773239)
-						end)
-
-						_1B.Visible = false
-						_100B.Visible = false
-						_10M.Visible = false
-						_100M.Visible = false
-						_1T.Visible = true
-						_100T.Visible = true
-						_1QD.Visible = true
-						_100QD.Visible = true
-
-						_1TX.Name = "1TX"
-						_1TX.Parent = ph_2
-						_1TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1TX.Size = UDim2.new(0, 279, 0, 59)
-						_1TX.Font = Enum.Font.SourceSans
-						_1TX.Text = "1T Rouleau de route"
-						_1TX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1TX.TextSize = 14.000
-						_1TX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(155.297455, 67.2311096, 717.894897)
-						end)
-
-						_100TX.Name = "100TX"
-						_100TX.Parent = ph_2
-						_100TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100TX.Position = UDim2.new(-0.00359712238, 0, 0.25431034, 0)
-						_100TX.Size = UDim2.new(0, 281, 0, 55)
-						_100TX.Font = Enum.Font.SourceSans
-						_100TX.Text = "100T Le monde interieur d'ichigo"
-						_100TX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100TX.TextSize = 14.000
-						_100TX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1726.23279, -211.904907, 230.607086)
-						end)
-
-						_1QDX.Name = "1QDX"
-						_1QDX.Parent = ph_2
-						_1QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_1QDX.Position = UDim2.new(0.00359712238, 0, 0.491786033, 0)
-						_1QDX.Size = UDim2.new(0, 280, 0, 58)
-						_1QDX.Font = Enum.Font.SourceSans
-						_1QDX.Text = "1QD Rocher incassable"
-						_1QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_1QDX.TextSize = 14.000
-						_1QDX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(814.361572, 238.007492, -476.712952)
-						end)
-
-						_100QDX.Name = "100QDX"
-						_100QDX.Parent = ph_2
-						_100QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-						_100QDX.Position = UDim2.new(0, 0, 0.743737817, 0)
-						_100QDX.Size = UDim2.new(0, 280, 0, 61)
-						_100QDX.Font = Enum.Font.SourceSans
-						_100QDX.Text = "100QD  exécuteur exécuteur"
-						_100QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
-						_100QDX.TextSize = 14.000
-						_100QDX.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2125.11475, 491.356873, -1735.50256)
-						end)
-
-						_1BX.Visible = false
-						_100BX.Visible = false
-						_1MX.Visible = false
-						_100MX.Visible = false
-						_1TX.Visible = true
-						_100TX.Visible = true
-						_1QDX.Visible = true
-						_100QDX.Visible = true
-
-					end
-				end
-				coroutine.resume(coroutine.create(SCRIPT_0000YYEV855_FAKESCRIPT))
-
-				function SCRIPT_000YEV855_FAKESCRIPT() -- tp to
-					if game.PlaceId == 5113678354 then
-						tpto_2.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(264.07605, 69.6074829, 433.278961)
-						end)
-					end
-					if game.PlaceId == 4042427666 then
-						tpto_2.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(23.153116226196, 80.006523132324, 22.740615844727)
-						end)
-					end
-					if game.PlaceId == 5113680396 then
-						tpto_2.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-986.90478515625, 647.20733642578, -1746.7038574219)
-						end)
-					end
-					if game.PlaceId == 5445525505 then
-						tpto_2.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-773.87115478516, 46.787715911865, 221.36274719238)
-						end)
-					end
-					if game.PlaceId == 6479720355 then
-						tpto_2.MouseButton1Down:connect(function()
-							game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1229.6412353516, 153.9874420166, -565.92993164063)
-						end)
-					end
-				end
-				coroutine.resume(coroutine.create(SCRIPT_000YEV855_FAKESCRIPT))
-
-				_1.Name = "<1"
-				_1.Parent = fanime
-				_1.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				_1.Position = UDim2.new(0.00239409856, 0, 0, 0)
-				_1.Size = UDim2.new(0, 30, 0, 17)
-				_1.Font = Enum.Font.SourceSans
-				_1.Text = "<"
-				_1.TextColor3 = Color3.fromRGB(0, 170, 0)
-				_1.TextSize = 14.000
-
-				precedant_2.Name = "<1"
-				precedant_2.Parent = fanime
-				precedant_2.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				precedant_2.Position = UDim2.new(0.00239409856, 0, 0, 0)
-				precedant_2.Size = UDim2.new(0, 30, 0, 17)
-				precedant_2.Font = Enum.Font.SourceSans
-				precedant_2.Text = "<"
-				precedant_2.TextColor3 = Color3.fromRGB(0, 170, 0)
-				precedant_2.TextSize = 14.000
-				precedant_2.Visible = false
-				precedant_2.MouseButton1Down:connect(function()
-					_1_2.Visible = true
-					suivant_2.Visible = false
-					suivant_3.Visible = false
-					suivant_4.Visible = false
-					suivant_5.Visible = false
-					_1.Visible = true
-					precedant_2.Visible = false
-					precedant_3.Visible = false
-					precedant_4.Visible = false
-					precedant_5.Visible = false
-
-					dim.Text = "Dimension 1"
-				end)
-
-				precedant_3.Name = "<1"
-				precedant_3.Parent = fanime
-				precedant_3.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				precedant_3.Position = UDim2.new(0.00239409856, 0, 0, 0)
-				precedant_3.Size = UDim2.new(0, 30, 0, 17)
-				precedant_3.Font = Enum.Font.SourceSans
-				precedant_3.Text = "<"
-				precedant_3.TextColor3 = Color3.fromRGB(0, 170, 0)
-				precedant_3.TextSize = 14.000
-				precedant_3.Visible = false
-				precedant_3.MouseButton1Down:connect(function()
-					_1_2.Visible = false
-					suivant_2.Visible = true
-					suivant_3.Visible = false
-					suivant_4.Visible = false
-					suivant_5.Visible = false
-					_1.Visible = false
-					precedant_2.Visible = true
-					precedant_3.Visible = false
-					precedant_4.Visible = false
-					precedant_5.Visible = false
-
-					dim.Text = "Dimension 2"
-				end)
-
-				precedant_4.Name = "<1"
-				precedant_4.Parent = fanime
-				precedant_4.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				precedant_4.Position = UDim2.new(0.00239409856, 0, 0, 0)
-				precedant_4.Size = UDim2.new(0, 30, 0, 17)
-				precedant_4.Font = Enum.Font.SourceSans
-				precedant_4.Text = "<"
-				precedant_4.TextColor3 = Color3.fromRGB(0, 170, 0)
-				precedant_4.TextSize = 14.000
-				precedant_4.Visible = false
-				precedant_4.MouseButton1Down:connect(function()
-					_1_2.Visible = false
-					suivant_2.Visible = false
-					suivant_3.Visible = true
-					suivant_4.Visible = false
-					suivant_5.Visible = false
-					_1.Visible = false
-					precedant_2.Visible = false
-					precedant_3.Visible = true
-					precedant_4.Visible = false
-					precedant_5.Visible = false
-
-					dim.Text = "Dimension 3"
-				end)
-
-				precedant_5.Name = "<1"
-				precedant_5.Parent = fanime
-				precedant_5.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				precedant_5.Position = UDim2.new(0.00239409856, 0, 0, 0)
-				precedant_5.Size = UDim2.new(0, 30, 0, 17)
-				precedant_5.Font = Enum.Font.SourceSans
-				precedant_5.Text = "<"
-				precedant_5.TextColor3 = Color3.fromRGB(0, 170, 0)
-				precedant_5.TextSize = 14.000
-				precedant_5.Visible = false
-				precedant_5.MouseButton1Down:connect(function()
-					_1_2.Visible = false
-					suivant_2.Visible = false
-					suivant_3.Visible = false
-					suivant_4.Visible = true
-					suivant_5.Visible = false
-					_1.Visible = false
-					precedant_2.Visible = false
-					precedant_3.Visible = false
-					precedant_4.Visible = true
-					precedant_5.Visible = false
-
-					dim.Text = "Dimension 4"
-				end)
-
-				_1_2.Name = ">1"
-				_1_2.Parent = fanime
-				_1_2.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				_1_2.Position = UDim2.new(0.773003459, 0, 0, 0)
-				_1_2.Size = UDim2.new(0, 26, 0, 17)
-				_1_2.Font = Enum.Font.SourceSans
-				_1_2.Text = ">"
-				_1_2.TextColor3 = Color3.fromRGB(0, 170, 0)
-				_1_2.TextSize = 14.000
-
-				suivant_2.Name = ">1"
-				suivant_2.Parent = fanime
-				suivant_2.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				suivant_2.Position = UDim2.new(0.773003459, 0, 0, 0)
-				suivant_2.Size = UDim2.new(0, 26, 0, 17)
-				suivant_2.Font = Enum.Font.SourceSans
-				suivant_2.Text = ">"
-				suivant_2.TextColor3 = Color3.fromRGB(0, 170, 0)
-				suivant_2.TextSize = 14.000
-				suivant_2.Visible = false
-				suivant_2.MouseButton1Down:connect(function()
-					_1_2.Visible = false
-					suivant_2.Visible = false
-					suivant_3.Visible = true
-					suivant_4.Visible = false
-					suivant_5.Visible = false
-					_1.Visible = false
-					precedant_2.Visible = false
-					precedant_3.Visible = true
-					precedant_4.Visible = false
-					precedant_5.Visible = false
-
-					dim.Text = "Dimension 3"
-				end)
-
-				suivant_3.Name = ">1"
-				suivant_3.Parent = fanime
-				suivant_3.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				suivant_3.Position = UDim2.new(0.773003459, 0, 0, 0)
-				suivant_3.Size = UDim2.new(0, 26, 0, 17)
-				suivant_3.Font = Enum.Font.SourceSans
-				suivant_3.Text = ">"
-				suivant_3.TextColor3 = Color3.fromRGB(0, 170, 0)
-				suivant_3.TextSize = 14.000
-				suivant_3.Visible = false
-				suivant_3.MouseButton1Down:connect(function()
-					_1_2.Visible = false
-					suivant_2.Visible = false
-					suivant_3.Visible = false
-					suivant_4.Visible = true
-					suivant_5.Visible = false
-					_1.Visible = false
-					precedant_2.Visible = false
-					precedant_3.Visible = false
-					precedant_4.Visible = true
-					precedant_5.Visible = false
-
-					dim.Text = "Dimension 4"
-				end)
-
-				suivant_4.Name = ">1"
-				suivant_4.Parent = fanime
-				suivant_4.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				suivant_4.Position = UDim2.new(0.773003459, 0, 0, 0)
-				suivant_4.Size = UDim2.new(0, 26, 0, 17)
-				suivant_4.Font = Enum.Font.SourceSans
-				suivant_4.Text = ">"
-				suivant_4.TextColor3 = Color3.fromRGB(0, 170, 0)
-				suivant_4.TextSize = 14.000
-				suivant_4.Visible = false
-				suivant_4.MouseButton1Down:connect(function()
-					_1_2.Visible = false
-					suivant_2.Visible = false
-					suivant_3.Visible = false
-					suivant_4.Visible = false
-					suivant_5.Visible = true
-					_1.Visible = false
-					precedant_2.Visible = false
-					precedant_3.Visible = false
-					precedant_4.Visible = false
-					precedant_5.Visible = true
-
-					dim.Text = "Dimension 5"
-				end)
-
-				suivant_5.Name = ">1"
-				suivant_5.Parent = fanime
-				suivant_5.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				suivant_5.Position = UDim2.new(0.773003459, 0, 0, 0)
-				suivant_5.Size = UDim2.new(0, 26, 0, 17)
-				suivant_5.Font = Enum.Font.SourceSans
-				suivant_5.Text = ">"
-				suivant_5.TextColor3 = Color3.fromRGB(0, 170, 0)
-				suivant_5.TextSize = 14.000
-				suivant_5.Visible = false
-				suivant_4.MouseButton1Down:connect(function()
-					_1_2.Visible = true
-					suivant_2.Visible = false
-					suivant_3.Visible = false
-					suivant_4.Visible = false
-					suivant_5.Visible = false
-					_1.Visible = true
-					precedant_2.Visible = false
-					precedant_3.Visible = false
-					precedant_4.Visible = false
-					precedant_5.Visible = false
-
-					dim.Text = "Dimension 1"
-				end)
-
-				closeda.Name = "closeda"
-				closeda.Parent = fanime
-				closeda.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
-				closeda.Position = UDim2.new(0.863799334, 0, 0, 0)
-				closeda.Size = UDim2.new(0, 38, 0, 17)
-				closeda.Font = Enum.Font.SourceSans
-				closeda.Text = "X"
-				closeda.TextColor3 = Color3.fromRGB(255, 0, 0)
-				closeda.TextSize = 14.000
-
-				dima.Name = "dima"
-				dima.Parent = fanime
-				dima.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				dima.Position = UDim2.new(0.0609318987, 0, 0.201133147, 0)
-				dima.Size = UDim2.new(0, 200, 0, 50)
-				dima.Visible = false
-				dima.Font = Enum.Font.SourceSans
-				dima.TextColor3 = Color3.fromRGB(0, 0, 0)
-				dima.TextSize = 14.000
-
-				Dimension1.Name = "Dimension 1"
-				Dimension1.Parent = fanime
-				Dimension1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				Dimension1.Position = UDim2.new(0, 0, 0.0481586419, 0)
-				Dimension1.Size = UDim2.new(0, 279, 0, 337)
+			end)
+
+			anime.Name = "anime"
+			anime.Parent = fightinig
+			anime.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+			anime.Position = UDim2.new(0.00239409856, 0, 0.10599222, 0)
+			anime.Size = UDim2.new(0, 279, 0, 30)
+			anime.Font = Enum.Font.SourceSans
+			anime.Text = "Anime fighting"
+			anime.TextColor3 = Color3.fromRGB(0, 0, 0)
+			anime.TextSize = 14.000
+			anime.MouseButton1Down:connect(function()
+
+			end)
+
+			fanime.Name = "fanime"
+			fanime.Parent = fightinig
+			fanime.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			fanime.Size = UDim2.new(0, 279, 0, 353)
+			fanime.Visible = true
+
+			dim.Name = "Dimension 2"
+			dim.Parent = fanime
+			dim.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			dim.Position = UDim2.new(0.109920979, 0, 0, 0)
+			dim.Size = UDim2.new(0, 186, 0, 17)
+			dim.Font = Enum.Font.SourceSans
+			dim.Text = "Dimension 1"
+			dim.TextColor3 = Color3.fromRGB(0, 0, 0)
+			dim.TextSize = 14.000
+			dim.MouseButton1Down:connect(function()
 				Dimension1.Visible = true
+				dima.Text = dim.Text
 
-				agui.Name = "agui"
-				agui.Parent = Dimension1
-				agui.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-				agui.Position = UDim2.new(0.738438606, 0, 0.160237387, 0)
-				agui.Size = UDim2.new(0, 73, 0, 31)
-				agui.Font = Enum.Font.SourceSans
-				agui.Text = "Agilite"
-				agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-				agui.TextSize = 14.000
 
-				chacra.Name = "chacra"
-				chacra.Parent = Dimension1
-				chacra.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-				chacra.Font = Enum.Font.SourceSans
-				chacra.Text = "chakra"
-				chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-				chacra.TextSize = 14.000
-				chacra.MouseButton1Down:connect(function()
-					agi.Visible = false
-					chakra.Visible = true
-					dura_2.Visible = false
-					menue.Visible = false
-					peso.Visible = false
-					ph_2.Visible = false
-					spped.Visible = false
-					agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-					chacra.TextColor3 = Color3.fromRGB(255, 0, 0)
-					dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-					me.TextColor3 = Color3.fromRGB(0, 0, 0)
-					personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-					ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-					speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				end)
+			end)
 
-				dura.Name = "dura"
-				dura.Parent = Dimension1
-				dura.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-				dura.Font = Enum.Font.SourceSans
-				dura.Text = "durability"
-				dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-				dura.TextSize = 14.000
-				dura.MouseButton1Down:connect(function()
-					agi.Visible = false
-					chakra.Visible = false
-					dura_2.Visible = true
-					menue.Visible = false
-					peso.Visible = false
-					ph_2.Visible = false
-					spped.Visible = false
-					agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+			function SCRIPT_0000YEV855_FAKESCRIPT() -- Dimension 1 paramètre
+				if game.PlaceId == 4042427666 then
+
+					agui.Visible = true
+					speed_2.Visible = true
+					dim.Text = "Dimension 1"
+
+					fanime.Visible = true
+					TextLabel_2.Visible = false
+					cfalos.Visible = false
+					Dimension1.Visible = true
+
+					_1BY.Visible = true
+					TextButton_2.Visible = true
+					_1MY.Visible = true
+					_100MY.Visible = true
+					_1TY.Visible = true
+					_100TY.Visible = true
+					_1QDY.Visible = true
+					_100QDY.Visible = true
+
+
+					_1B.Visible = true
+					_100B.Visible = true
+					_10M.Visible = true
+					_100M.Visible = true
+					_1T.Visible = true
+					_100T.Visible = true
+					_1QD.Visible = true
+					_100QD.Visible = true
+
+					_1BX.Visible = true
+					_100BX.Visible = true
+					_1MX.Visible = true
+					_100MX.Visible = true
+					_1TX.Visible = true
+					_100TX.Visible = true
+					_1QDX.Visible = true
+					_100QDX.Visible = true
+
+					_1T.Name = "1T"
+					_1T.Parent = dura_2
+					_1T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1T.Position = UDim2.new(0.00250698067, 0, 0, 0)
+					_1T.Size = UDim2.new(0, 278, 0, 24)
+					_1T.Font = Enum.Font.SourceSans
+					_1T.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1T.TextSize = 14.000
+					_1T.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(154.110672, 62.2016296, 897.953491)
+					end)
+
+
+					_100T.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1649.09094, 81.2910385, -520.585205)
+					end)
+					_1QD.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.1687126, 91.9289398, 2051.74023)
+					end)
+					_100QD.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-594.966248, 179.007492, 758.308777)
+					end)
+					_10M.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1063.38184, 232.660568, -925.705322)
+					end)
+					_100M.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-297.022339, 62.0075226, -1642.8175)
+					end)
+					_1B.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2481.72656, 1536.79858, -375.608459)
+					end)
+					_100B.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2748.29565, -224.334229, 328.509583)
+					end)
+
+					_1TY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 25, 65.0075073, -99)
+					end)
+					_100TY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 1455, 147.007492, -563)
+					end)
+					_1QDY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 942.700928, 141.007492, 800.052185)
+					end)
+					_100QDY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 1620.98157, 564.207397, 599.472961)
+					end)
+					_1MY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new( 365.164063, -139.78212, -1800.6438)
+					end)
+					_100MY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1050, 251.007492, -600)
+					end)
+					_1BY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3084, 111.088074, 1124)
+					end)
+					TextButton_2.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1572.25464, 1000.77905, 1922.29895)
+					end)
+
+					_1TX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(24.9463501, 65.4823532, 150.925461)
+					end)
+					_100TX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1372.49512, 191.007507, -119.509895)
+					end)
+					_1QDX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1228.63989, 59.0075188, 504.896271)
+					end)
+					_100QDX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-872.565186, 81.8603363, 194.368378)
+					end)
+					_1MX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2211.10156, 617.69696, 537.196411)
+					end)
+					_100MX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-6, 71.0075073, -1285)
+					end)
+					_1BX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(755, 149.984329, 952)
+					end)
+					_100BX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1881.43872, 141.207504, 109.296883)
+					end)
+
+
+					_1T.Text = "100 navire pirate"
+					_100T.Text = "10k Ile du désert"
+					_1QD.Text = "100 k rocher enneiger"
+					_100QD.Text = "1M Patte"
+					_10M.Text = "10M Volcano"
+					_100M.Text = "100M Fausse de flame Noir"
+					_1B.Text = "1B Planète"
+					_100B.Text = "100B Chambre of TIme"
+					_1TY.Text = "500 Arbre spirituel"
+					_100TY.Text = "15k Livre de la mort"
+					_1QDY.Text = "150k Chute d'eau de la Vérité"
+					_100QDY.Text = "1.5M Temple"
+					_1MY.Text = "15M Statue de renard démon"
+					_100MY.Text = "250M Arbre Sakura"
+					_1BY.Text = "1B Plateforme de Méditation Sauge"
+					TextButton_2.Text = "100B Tour du ciel"
+					_1TX.Text = "100 manequin"
+					_100TX.Text = "10k Gym"
+					_1QDX.Text = "100k Plage"
+					_100QDX.Text = "1M Météore"
+					_1MX.Text = "10M Lokout Island "
+					_100MX.Text = "100M Arena"
+					_1BX.Text = "1B Excalibur"
+					_100BX.Text = "100B Monstre"
+
+					chacra.Name = "chacra"
+					chacra.Parent = Dimension1
+					chacra.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					chacra.Position = UDim2.new(0.00239409856, 0, 0.166058004, 0)
+					chacra.Size = UDim2.new(0, 74, 0, 29)
+					chacra.Font = Enum.Font.SourceSans
+					chacra.Text = "chakra"
 					chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-					dura.TextColor3 = Color3.fromRGB(255, 0, 0)
-					me.TextColor3 = Color3.fromRGB(0, 0, 0)
-					personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-					ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-					speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				end)
+					chacra.TextSize = 14.000
 
-				me.Name = "me"
-				me.Parent = Dimension1
-				me.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-				me.Font = Enum.Font.SourceSans
-				me.Text = "menue"
-				me.TextColor3 = Color3.fromRGB(0, 0, 0)
-				me.TextSize = 14.000
-				me.MouseButton1Down:connect(function()
-					agi.Visible = false
-					tpto_2.Visible = true
-					chakra.Visible = false
-					dura_2.Visible = false
-					menue.Visible = true
-					peso.Visible = false
-					ph_2.Visible = false
-					spped.Visible = false
-					agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-					chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+
+					dura.Name = "dura"
+					dura.Parent = Dimension1
+					dura.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					dura.Position = UDim2.new(0.394265294, 0, 0.0682492554, 0)
+					dura.Size = UDim2.new(0, 79, 0, 31)
+					dura.Font = Enum.Font.SourceSans
+					dura.Text = "durability"
 					dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-					me.TextColor3 = Color3.fromRGB(255, 0, 0)
-					personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-					ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-					speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				end)
+					dura.TextSize = 14.000
 
-				personnages.Name = "personnages"
-				personnages.Parent = Dimension1
-				personnages.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-				personnages.Font = Enum.Font.SourceSans
-				personnages.Text = "personnages"
-				personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-				personnages.TextSize = 14.000
-				personnages.MouseButton1Down:connect(function()
-					agi.Visible = false
-					chakra.Visible = false
-					dura_2.Visible = false
-					menue.Visible = false
-					peso.Visible = true
-					ph_2.Visible = false
-					spped.Visible = false
-					agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-					chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-					dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+					me.Name = "me"
+					me.Parent = Dimension1
+					me.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					me.Position = UDim2.new(0.541306019, 0, 0.166058004, 0)
+					me.Size = UDim2.new(0, 55, 0, 29)
+					me.Font = Enum.Font.SourceSans
+					me.Text = "menue"
 					me.TextColor3 = Color3.fromRGB(0, 0, 0)
-					personnages.TextColor3 = Color3.fromRGB(255, 0, 0)
-					ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-					speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				end)
+					me.TextSize = 14.000
 
-				ph.Name = "ph"
-				ph.Parent = Dimension1
-				ph.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-				ph.Font = Enum.Font.SourceSans
-				ph.Text = "Force physique "
-				ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-				ph.TextSize = 14.000
-				ph.MouseButton1Down:connect(function()
-					agi.Visible = false
-					chakra.Visible = false
-					dura_2.Visible = false
-					menue.Visible = false
-					peso.Visible = false
-					ph_2.Visible = true
-					spped.Visible = false
+
+					agui.Name = "agui"
+					agui.Parent = Dimension1
+					agui.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					agui.Position = UDim2.new(0.738438606, 0, 0.160237387, 0)
+					agui.Size = UDim2.new(0, 73, 0, 31)
+					agui.Font = Enum.Font.SourceSans
+					agui.Text = "Agilite"
 					agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-					chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-					dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-					me.TextColor3 = Color3.fromRGB(0, 0, 0)
-					personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
-					ph.TextColor3 = Color3.fromRGB(255, 0, 0)
-					speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				end)
+					agui.TextSize = 14.000
+					agui.MouseButton1Down:connect(function()
+						agi.Visible = true
+						chakra.Visible = false
+						dura_2.Visible = false
+						menue.Visible = false
+						peso.Visible = false
+						ph_2.Visible = false
+						spped.Visible = false
+						agui.TextColor3 = Color3.fromRGB(255, 0, 0)
+						chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+						dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+						me.TextColor3 = Color3.fromRGB(0, 0, 0)
+						personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+						ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+						speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+					end)
 
-				speed_2.Name = "speed"
-				speed_2.Parent = Dimension1
-				speed_2.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
-				speed_2.Position = UDim2.new(0.677296579, 0, 0.0682492554, 0)
-				speed_2.Size = UDim2.new(0, 90, 0, 31)
-				speed_2.Font = Enum.Font.SourceSans
-				speed_2.Text = "vitesse"
-				speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				speed_2.TextSize = 14.000
-				speed_2.MouseButton1Down:connect(function()
-					agi.Visible = false
-					chakra.Visible = false
-					dura_2.Visible = false
-					menue.Visible = false
-					peso.Visible = false
-					ph_2.Visible = false
-					spped.Visible = true
-					agui.TextColor3 = Color3.fromRGB(0, 0, 0)
-					chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
-					dura.TextColor3 = Color3.fromRGB(0, 0, 0)
-					me.TextColor3 = Color3.fromRGB(0, 0, 0)
+					personnages.Name = "personnages"
+					personnages.Parent = Dimension1
+					personnages.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					personnages.Position = UDim2.new(0.277974725, 0, 0.166058004, 0)
+					personnages.Size = UDim2.new(0, 74, 0, 29)
+					personnages.Font = Enum.Font.SourceSans
+					personnages.Text = "personnages"
 					personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+					personnages.TextSize = 14.000
+					personnages.MouseButton1Down:connect(function()
+						agi.Visible = false
+						chakra.Visible = false
+						dura_2.Visible = false
+						menue.Visible = false
+						peso.Visible = true
+						ph_2.Visible = false
+						spped.Visible = false
+						agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+						chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+						dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+						me.TextColor3 = Color3.fromRGB(0, 0, 0)
+						personnages.TextColor3 = Color3.fromRGB(255, 0, 0)
+						ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+						speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+					end)
+
+					ph.Name = "ph"
+					ph.Parent = Dimension1
+					ph.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					ph.Position = UDim2.new(-0.000161119693, 0, 0.0682492554, 0)
+					ph.Size = UDim2.new(0, 111, 0, 31)
+					ph.Font = Enum.Font.SourceSans
+					ph.Text = "Force physique "
 					ph.TextColor3 = Color3.fromRGB(0, 0, 0)
-					speed_2.TextColor3 = Color3.fromRGB(255, 0, 0)
-				end)
-
-				activith.Name = "activith"
-				activith.Parent = Dimension1
-				activith.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
-				activith.Size = UDim2.new(0, 279, 0, 21)
-				activith.Font = Enum.Font.SourceSans
-				activith.Text = "Activites"
-				activith.TextColor3 = Color3.fromRGB(255, 255, 255)
-				activith.TextSize = 14.000
-
-				Emplacement.Name = "Emplacement"
-				Emplacement.Parent = Dimension1
-				Emplacement.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
-				Emplacement.Position = UDim2.new(0.00239409856, 0, 0.252225518, 0)
-				Emplacement.Size = UDim2.new(0, 278, 0, 21)
-				Emplacement.Font = Enum.Font.SourceSans
-				Emplacement.Text = "Emplacement"
-				Emplacement.TextColor3 = Color3.fromRGB(255, 255, 255)
-				Emplacement.TextSize = 14.000
-
-				dura_2.Name = "dura"
-				dura_2.Parent = Dimension1
-				dura_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				dura_2.Position = UDim2.new(-0.00266810041, 0, 0.314539969, 0)
-				dura_2.Size = UDim2.new(0, 279, 0, 230)
-				dura_2.Visible = false
-
-				_1T.Name = "1T"
-				_1T.Parent = dura_2
-				_1T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1T.Font = Enum.Font.SourceSans
-				_1T.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1T.TextSize = 14.000
-
-				_100T.Name = "100T"
-				_100T.Parent = dura_2
-				_100T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100T.Font = Enum.Font.SourceSans
-				_100T.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100T.TextSize = 14.000
-
-				_1QD.Name = "1QD"
-				_1QD.Parent = dura_2
-				_1QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1QD.Font = Enum.Font.SourceSans
-				_1QD.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1QD.TextSize = 14.000
-
-				_100QD.Name = "100QD"
-				_100QD.Parent = dura_2
-				_100QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100QD.Font = Enum.Font.SourceSans
-				_100QD.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100QD.TextSize = 14.000
-
-				_10M.Name = "10M"
-				_10M.Parent = dura_2
-				_10M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_10M.Font = Enum.Font.SourceSans
-				_10M.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_10M.TextSize = 14.000
-
-				_100M.Name = "100M"
-				_100M.Parent = dura_2
-				_100M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100M.Font = Enum.Font.SourceSans
-				_100M.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100M.TextSize = 14.000
-
-				_1B.Name = "1B"
-				_1B.Parent = dura_2
-				_1B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1B.Font = Enum.Font.SourceSans
-				_1B.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1B.TextSize = 14.000
-
-				_100B.Name = "100B"
-				_100B.Parent = dura_2
-				_100B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100B.Font = Enum.Font.SourceSans
-				_100B.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100B.TextSize = 14.000
-
-				chakra.Name = "chakra"
-				chakra.Parent = Dimension1
-				chakra.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				chakra.Position = UDim2.new(0.00218096771, 0, 0.313199013, 0)
-				chakra.Size = UDim2.new(0, 278, 0, 232)
-				chakra.Visible = false
-
-				_1TY.Name = "1TY"
-				_1TY.Parent = chakra
-				_1TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1TY.Font = Enum.Font.SourceSans
-				_1TY.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1TY.TextSize = 14.000
-
-				_100TY.Name = "100TY"
-				_100TY.Parent = chakra
-				_100TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100TY.Font = Enum.Font.SourceSans
-				_100TY.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100TY.TextSize = 14.000
-
-				_1QDY.Name = "1QDY"
-				_1QDY.Parent = chakra
-				_1QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1QDY.Font = Enum.Font.SourceSans
-				_1QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1QDY.TextSize = 14.000
-
-				_100QDY.Name = "100QDY"
-				_100QDY.Parent = chakra
-				_100QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100QDY.Font = Enum.Font.SourceSans
-				_100QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100QDY.TextSize = 14.000
-
-				_1MY.Name = "1MY"
-				_1MY.Parent = chakra
-				_1MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1MY.Font = Enum.Font.SourceSans
-				_1MY.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1MY.TextSize = 14.000
-
-				_100MY.Name = "100MY"
-				_100MY.Parent = chakra
-				_100MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100MY.Font = Enum.Font.SourceSans
-				_100MY.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100MY.TextSize = 14.000
-
-				_1BY.Name = "1BY"
-				_1BY.Parent = chakra
-				_1BY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1BY.Font = Enum.Font.SourceSans
-				_1BY.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1BY.TextSize = 14.000
-
-				TextButton_2.Parent = chakra
-				TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				TextButton_2.Font = Enum.Font.SourceSans
-				TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				TextButton_2.TextSize = 14.000
-
-				peso.Name = "peso"
-				peso.Parent = Dimension1
-				peso.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				peso.Position = UDim2.new(0.0022485659, 0, 0.314540058, 0)
-				peso.Size = UDim2.new(0, 279, 0, 231)
-				peso.Visible = false
-
-				boum.Name = "boum"
-				boum.Parent = peso
-				boum.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				boum.Font = Enum.Font.SourceSans
-				boum.TextColor3 = Color3.fromRGB(0, 0, 0)
-				boum.TextSize = 14.000
-
-				kaneki.Name = "kaneki"
-				kaneki.Parent = peso
-				kaneki.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				kaneki.Font = Enum.Font.SourceSans
-				kaneki.TextColor3 = Color3.fromRGB(0, 0, 0)
-				kaneki.TextSize = 14.000
+					ph.TextSize = 14.000
 
 
-				style.Name = "style"
-				style.Parent = peso
-				style.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				style.Font = Enum.Font.SourceSans
-				style.TextColor3 = Color3.fromRGB(0, 0, 0)
-				style.TextSize = 14.000
+					speed_2.Name = "speed"
+					speed_2.Parent = Dimension1
+					speed_2.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					speed_2.Position = UDim2.new(0.677296579, 0, 0.0682492554, 0)
+					speed_2.Size = UDim2.new(0, 90, 0, 31)
+					speed_2.Font = Enum.Font.SourceSans
+					speed_2.Text = "vitesse"
+					speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+					speed_2.TextSize = 14.000
+					speed_2.MouseButton1Down:connect(function()
+						agi.Visible = false
+						chakra.Visible = false
+						dura_2.Visible = false
+						menue.Visible = false
+						peso.Visible = false
+						ph_2.Visible = false
+						spped.Visible = true
+						agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+						chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+						dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+						me.TextColor3 = Color3.fromRGB(0, 0, 0)
+						personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+						ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+						speed_2.TextColor3 = Color3.fromRGB(255, 0, 0)
+					end)
 
-				grimoire.Name = "grimoire"
-				grimoire.Parent = peso
-				grimoire.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				grimoire.Font = Enum.Font.SourceSans
-				grimoire.TextColor3 = Color3.fromRGB(0, 0, 0)
-				grimoire.TextSize = 14.000
+					boum.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-0.306630641, 80.006546, 23.4061871)
+					end)
+					boum.Text = "Boom "
 
-				gio.Name = "gio"
-				gio.Parent = peso
-				gio.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				gio.Font = Enum.Font.SourceSans
-				gio.TextColor3 = Color3.fromRGB(0, 0, 0)
-				gio.TextSize = 14.000
+					kaneki.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(44.1340256, 80.0065384, 20.2039814)
+					end)
+					kaneki.Text = "Wukong"
 
-				goules.Name = "goule"
-				goules.Parent = peso
-				goules.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				goules.Font = Enum.Font.SourceSans
-				goules.TextColor3 = Color3.fromRGB(0, 0, 0)
-				goules.TextSize = 14.000
+					style.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-283.840118, 116.851013, -1147.35339)
+					end)
+					style.Text = "Style d'épée "
 
-				aitr.Name = "aitr"
-				aitr.Parent = peso
-				aitr.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				aitr.Font = Enum.Font.SourceSans
-				aitr.TextColor3 = Color3.fromRGB(0, 0, 0)
-				aitr.TextSize = 14.000
+					grimoire.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1069.26746, 141.571136, -959.470093)
+					end)
+					grimoire.Text = "grimoire"
 
-				aqui.Name = "aqui"
-				aqui.Parent = peso
-				aqui.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				aqui.Font = Enum.Font.SourceSans
-				aqui.TextColor3 = Color3.fromRGB(0, 0, 0)
-				aqui.TextSize = 14.000
+					gio.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(187.77446, 62.4075203, -213.89122)
+					end)
+					gio.Text = "giovanni"
+
+					goules.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1726.62427, 142.407501, -155.750015)
+					end)
+					goules.Text = "Goule"
+
+					aitr.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1353.10767, 69.1100082, -1701.56848)
+					end)
+					aitr.Text = "Maitre des épée"
+
+					aqui.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(63.4934196, 105.007515, 48.0045357)
+					end)
+					aqui.Text = "aquérir un champion"
 
 
-				ph_2.Name = "ph"
-				ph_2.Parent = Dimension1
-				ph_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				ph_2.Position = UDim2.new(-0.000161119693, 0, 0.314540058, 0)
-				ph_2.Size = UDim2.new(0, 279, 0, 231)
-				ph_2.Visible = false
+					_100T.Name = "100T"
+					_100T.Parent = dura_2
+					_100T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100T.Position = UDim2.new(0, 0, 0.100175016, 0)
+					_100T.Size = UDim2.new(0, 280, 0, 24)
+					_100T.Font = Enum.Font.SourceSans
+					_100T.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100T.TextSize = 14.000
 
-				_1TX.Name = "1TX"
-				_1TX.Parent = ph_2
-				_1TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1TX.Font = Enum.Font.SourceSans
-				_1TX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1TX.TextSize = 14.000
+					_1QD.Name = "1QD"
+					_1QD.Parent = dura_2
+					_1QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1QD.Position = UDim2.new(-0.000232546139, 0, 0.213218495, 0)
+					_1QD.Size = UDim2.new(0, 279, 0, 28)
+					_1QD.Font = Enum.Font.SourceSans
+					_1QD.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1QD.TextSize = 14.000
 
-				_100TX.Name = "100TX"
-				_100TX.Parent = ph_2
-				_100TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100TX.Font = Enum.Font.SourceSans
-				_100TX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100TX.TextSize = 14.000
 
-				_1QDX.Name = "1QDX"
-				_1QDX.Parent = ph_2
-				_1QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1QDX.Font = Enum.Font.SourceSans
-				_1QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1QDX.TextSize = 14.000
+					_100QD.Name = "100QD"
+					_100QD.Parent = dura_2
+					_100QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100QD.Position = UDim2.new(0, 0, 0.340011477, 0)
+					_100QD.Size = UDim2.new(0, 280, 0, 32)
+					_100QD.Font = Enum.Font.SourceSans
+					_100QD.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100QD.TextSize = 14.000
 
-				_100QDX.Name = "100QDX"
-				_100QDX.Parent = ph_2
-				_100QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100QDX.Font = Enum.Font.SourceSans
-				_100QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100QDX.TextSize = 14.000
+					_10M.Name = "10M"
+					_10M.Parent = dura_2
+					_10M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_10M.Position = UDim2.new(0.0017100235, 0, 0.479141891, 0)
+					_10M.Size = UDim2.new(0, 279, 0, 28)
+					_10M.Font = Enum.Font.SourceSans
+					_10M.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_10M.TextSize = 14.000
 
-				_1MX.Name = "1MX"
-				_1MX.Parent = ph_2
-				_1MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1MX.Font = Enum.Font.SourceSans
-				_1MX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1MX.TextSize = 14.000
+					_100M.Name = "100M"
+					_100M.Parent = dura_2
+					_100M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100M.Position = UDim2.new(0, 0, 0.602375031, 0)
+					_100M.Size = UDim2.new(0, 280, 0, 28)
+					_100M.Font = Enum.Font.SourceSans
+					_100M.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100M.TextSize = 14.000
 
-				_100MX.Name = "100MX"
-				_100MX.Parent = ph_2
-				_100MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100MX.Font = Enum.Font.SourceSans
-				_100MX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100MX.TextSize = 14.000
+					_1B.Name = "1B"
+					_1B.Parent = dura_2
+					_1B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1B.Position = UDim2.new(0.00250698067, 0, 0.87391305, 0)
+					_1B.Size = UDim2.new(0, 279, 0, 29)
+					_1B.Font = Enum.Font.SourceSans
+					_1B.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1B.TextSize = 14.000
 
-				_1BX.Name = "1BX"
-				_1BX.Parent = ph_2
-				_1BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_1BX.Font = Enum.Font.SourceSans
-				_1BX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_1BX.TextSize = 14.000
+					_100B.Name = "100B"
+					_100B.Parent = dura_2
+					_100B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100B.Position = UDim2.new(0.00291388202, 0, 0.72786808, 0)
+					_100B.Size = UDim2.new(0, 279, 0, 33)
+					_100B.Font = Enum.Font.SourceSans
+					_100B.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100B.TextSize = 14.000
 
-				_100BX.Name = "100BX"
-				_100BX.Parent = ph_2
-				_100BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				_100BX.Font = Enum.Font.SourceSans
-				_100BX.TextColor3 = Color3.fromRGB(0, 0, 0)
-				_100BX.TextSize = 14.000
+					_1TY.Name = "1TY"
+					_1TY.Parent = chakra
+					_1TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1TY.Size = UDim2.new(0, 279, 0, 32)
+					_1TY.Font = Enum.Font.SourceSans
+					_1TY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1TY.TextSize = 14.000
 
-				menue.Name = "menue "
-				menue.Parent = fanime
-				menue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				menue.Position = UDim2.new(-0.000161119693, 0, 0.347359776, 0)
-				menue.Size = UDim2.new(0, 279, 0, 218)
-				menue.Visible = false
+					_100TY.Name = "100TY"
+					_100TY.Parent = chakra
+					_100TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100TY.Position = UDim2.new(-0.00719424477, 0, 0.137931034, 0)
+					_100TY.Size = UDim2.new(0, 281, 0, 32)
+					_100TY.Font = Enum.Font.SourceSans
+					_100TY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100TY.TextSize = 14.000
 
-				ara.Name = "ara"
-				ara.Parent = menue
-				ara.BackgroundColor3 = Color3.fromRGB(170, 0, 127)
-				ara.Position = UDim2.new(0, 0, 0.00144899637, 0)
-				ara.Size = UDim2.new(0, 279, 0, 110)
-				ara.Font = Enum.Font.SourceSans
-				ara.Text = "Chikara farm "
-				ara.TextColor3 = Color3.fromRGB(0, 0, 0)
-				ara.TextSize = 14.000
-				ara.MouseButton1Down:connect(function()
-					_G.on = true
-					while _G.on do
-						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Workspace.MouseIgnore.ChikaraCrate.ClickBox.CFrame
-						wait(4)
-					end
-				end)
+					_1QDY.Name = "1QDY"
+					_1QDY.Parent = chakra
+					_1QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1QDY.Position = UDim2.new(-0.00359712238, 0, 0.280579001, 0)
+					_1QDY.Size = UDim2.new(0, 280, 0, 27)
+					_1QDY.Font = Enum.Font.SourceSans
+					_1QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1QDY.TextSize = 14.000
 
-				tpto_2.Name = "tpto"
-				tpto_2.Parent = menue
-				tpto_2.BackgroundColor3 = Color3.fromRGB(170, 0, 127)
-				tpto_2.Position = UDim2.new(0, 0, 0.50597918, 0)
-				tpto_2.Size = UDim2.new(0, 279, 0, 123)
-				tpto_2.Font = Enum.Font.SourceSans
-				tpto_2.Text = "Tp to spawn"
-				tpto_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				tpto_2.TextSize = 14.000
-				tpto_2.Visible = false
+					_100QDY.Name = "100QDY"
+					_100QDY.Parent = chakra
+					_100QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100QDY.Position = UDim2.new(-0.00719424477, 0, 0.398910254, 0)
+					_100QDY.Size = UDim2.new(0, 280, 0, 27)
+					_100QDY.Font = Enum.Font.SourceSans
+					_100QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100QDY.TextSize = 14.000
 
-				agi.Name = "agi"
-				agi.Parent = Dimension1
-				agi.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				agi.Position = UDim2.new(-0.000161119693, 0, 0.320128769, 0)
-				agi.Size = UDim2.new(0, 279, 0, 230)
+					_1MY.Name = "1MY"
+					_1MY.Parent = chakra
+					_1MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1MY.Position = UDim2.new(0, 0, 0.516834676, 0)
+					_1MY.Size = UDim2.new(0, 279, 0, 29)
+					_1MY.Font = Enum.Font.SourceSans
+					_1MY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1MY.TextSize = 14.000
+
+					_100MY.Name = "100MY"
+					_100MY.Parent = chakra
+					_100MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100MY.Position = UDim2.new(-0.00359714986, 0, 0.642566562, 0)
+					_100MY.Size = UDim2.new(0, 280, 0, 25)
+					_100MY.Font = Enum.Font.SourceSans
+					_100MY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100MY.TextSize = 14.000
+
+					_1BY.Name = "1BY"
+					_1BY.Parent = chakra
+					_1BY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1BY.Position = UDim2.new(-0.00359712238, 0, 0.751870513, 0)
+					_1BY.Size = UDim2.new(0, 280, 0, 25)
+					_1BY.Font = Enum.Font.SourceSans
+					_1BY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1BY.TextSize = 14.000
+
+					TextButton_2.Parent = chakra
+					TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					TextButton_2.Position = UDim2.new(0, 0, 0.862068951, 0)
+					TextButton_2.Size = UDim2.new(0, 278, 0, 32)
+					TextButton_2.Font = Enum.Font.SourceSans
+					TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+					TextButton_2.TextSize = 14.000
+
+					boum.Name = "boum"
+					boum.Parent = peso
+					boum.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					boum.Size = UDim2.new(0, 279, 0, 24)
+					boum.Font = Enum.Font.SourceSans
+					boum.TextColor3 = Color3.fromRGB(0, 0, 0)
+					boum.TextSize = 14.000
+
+					kaneki.Name = "kaneki"
+					kaneki.Parent = peso
+					kaneki.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					kaneki.Position = UDim2.new(-0.00358422939, 0, 0.210163996, 0)
+					kaneki.Size = UDim2.new(0, 280, 0, 30)
+					kaneki.Font = Enum.Font.SourceSans
+					kaneki.TextColor3 = Color3.fromRGB(0, 0, 0)
+					kaneki.TextSize = 14.000
+
+
+					style.Name = "style"
+					style.Parent = peso
+					style.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					style.Position = UDim2.new(0, 0, 0.716058612, 0)
+					style.Size = UDim2.new(0, 279, 0, 35)
+					style.Font = Enum.Font.SourceSans
+					style.TextColor3 = Color3.fromRGB(0, 0, 0)
+					style.TextSize = 14.000
+
+					grimoire.Name = "grimoire"
+					grimoire.Parent = peso
+					grimoire.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					grimoire.Position = UDim2.new(0, 0, 0.466358274, 0)
+					grimoire.Size = UDim2.new(0, 279, 0, 27)
+					grimoire.Font = Enum.Font.SourceSans
+					grimoire.TextColor3 = Color3.fromRGB(0, 0, 0)
+					grimoire.TextSize = 14.000
+
+					gio.Name = "gio"
+					gio.Parent = peso
+					gio.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					gio.Position = UDim2.new(0, 0, 0.579672039, 0)
+					gio.Size = UDim2.new(0, 279, 0, 32)
+					gio.Font = Enum.Font.SourceSans
+					gio.TextColor3 = Color3.fromRGB(0, 0, 0)
+					gio.TextSize = 14.000
+
+					goules.Name = "goule"
+					goules.Parent = peso
+					goules.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					goules.Position = UDim2.new(-0.00160348543, 0, 0.103896104, 0)
+					goules.Size = UDim2.new(0, 279, 0, 25)
+					goules.Font = Enum.Font.SourceSans
+					goules.TextColor3 = Color3.fromRGB(0, 0, 0)
+					goules.TextSize = 14.000
+
+					aitr.Name = "aitr"
+					aitr.Parent = peso
+					aitr.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					aitr.Position = UDim2.new(0.0048104017, 0, 0.340034127, 0)
+					aitr.Size = UDim2.new(0, 277, 0, 30)
+					aitr.Font = Enum.Font.SourceSans
+					aitr.TextColor3 = Color3.fromRGB(0, 0, 0)
+					aitr.TextSize = 14.000
+
+					aqui.Name = "aqui"
+					aqui.Parent = peso
+					aqui.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					aqui.Position = UDim2.new(-0.00358422939, 0, 0.858915806, 0)
+					aqui.Size = UDim2.new(0, 280, 0, 32)
+					aqui.Font = Enum.Font.SourceSans
+					aqui.TextColor3 = Color3.fromRGB(0, 0, 0)
+					aqui.TextSize = 14.000
+
+					_1TX.Name = "1TX"
+					_1TX.Parent = ph_2
+					_1TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1TX.Size = UDim2.new(0, 279, 0, 33)
+					_1TX.Font = Enum.Font.SourceSans
+					_1TX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1TX.TextSize = 14.000
+
+					_100TX.Name = "100TX"
+					_100TX.Parent = ph_2
+					_100TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100TX.Position = UDim2.new(0, 0, 0.263727903, 0)
+					_100TX.Size = UDim2.new(0, 279, 0, 26)
+					_100TX.Font = Enum.Font.SourceSans
+					_100TX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100TX.TextSize = 14.000
+
+					_1QDX.Name = "1QDX"
+					_1QDX.Parent = ph_2
+					_1QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1QDX.Position = UDim2.new(0, 0, 0.380269766, 0)
+					_1QDX.Size = UDim2.new(0, 279, 0, 26)
+					_1QDX.Font = Enum.Font.SourceSans
+					_1QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1QDX.TextSize = 14.000
+
+					_100QDX.Name = "100QDX"
+					_100QDX.Parent = ph_2
+					_100QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100QDX.Position = UDim2.new(0, 0, 0.496811628, 0)
+					_100QDX.Size = UDim2.new(0, 279, 0, 26)
+					_100QDX.Font = Enum.Font.SourceSans
+					_100QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100QDX.TextSize = 14.000
+
+					_1MX.Name = "1MX"
+					_1MX.Parent = ph_2
+					_1MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1MX.Position = UDim2.new(0, 0, 0.609761834, 0)
+					_1MX.Size = UDim2.new(0, 279, 0, 34)
+					_1MX.Font = Enum.Font.SourceSans
+					_1MX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1MX.TextSize = 14.000
+
+					_100MX.Name = "100MX"
+					_100MX.Parent = ph_2
+					_100MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100MX.Position = UDim2.new(0, 0, 0.758042872, 0)
+					_100MX.Size = UDim2.new(0, 279, 0, 26)
+					_100MX.Font = Enum.Font.SourceSans
+					_100MX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100MX.TextSize = 14.000
+
+					_1BX.Name = "1BX"
+					_1BX.Parent = ph_2
+					_1BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1BX.Position = UDim2.new(0.00268188259, 0, 0.142857149, 0)
+					_1BX.Size = UDim2.new(0, 277, 0, 27)
+					_1BX.Font = Enum.Font.SourceSans
+					_1BX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1BX.TextSize = 14.000
+
+					_100BX.Name = "100BX"
+					_100BX.Parent = ph_2
+					_100BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100BX.Position = UDim2.new(0.00478732213, 0, 0.874117494, 0)
+					_100BX.Size = UDim2.new(0, 278, 0, 29)
+					_100BX.Font = Enum.Font.SourceSans
+					_100BX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100BX.TextSize = 14.000
+				end
+			end
+			coroutine.resume(coroutine.create(SCRIPT_0000YEV855_FAKESCRIPT))
+
+			function SCRIPT_0000YYEV855_FAKESCRIPT() -- Dimension 2 paramètre
+				if game.PlaceId == 5113678354 then
+
+					agui.Visible = false
+					speed_2.Visible = false
+					TextLabel_2.Visible = false
+					cfalos.Visible = false
+					dim.Text = "Dimension 2"
+
+					chacra.Name = "chacra"
+					chacra.Parent = Dimension1
+					chacra.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					chacra.Position = UDim2.new(0.00239409856, 0, 0.166058004, 0)
+					chacra.Size = UDim2.new(0, 84, 0, 29)
+					chacra.Font = Enum.Font.SourceSans
+					chacra.Text = "chakra"
+					chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+					chacra.TextSize = 14.000
+
+					dura.Name = "dura"
+					dura.Parent = Dimension1
+					dura.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					dura.Position = UDim2.new(0.519713283, 0, 0.0712166205, 0)
+					dura.Size = UDim2.new(0, 134, 0, 31)
+					dura.Font = Enum.Font.SourceSans
+					dura.Text = "durability"
+					dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+					dura.TextSize = 14.000
+
+					me.Name = "me"
+					me.Parent = Dimension1
+					me.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					me.Position = UDim2.new(0.630911767, 0, 0.166058004, 0)
+					me.Size = UDim2.new(0, 104, 0, 29)
+					me.Font = Enum.Font.SourceSans
+					me.Text = "menue"
+					me.TextColor3 = Color3.fromRGB(0, 0, 0)
+					me.TextSize = 14.000
+
+					personnages.Name = "personnages"
+					personnages.Parent = Dimension1
+					personnages.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					personnages.Position = UDim2.new(0.306648552, 0, 0.166058004, 0)
+					personnages.Size = UDim2.new(0, 90, 0, 29)
+					personnages.Font = Enum.Font.SourceSans
+					personnages.Text = "personnages"
+					personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+					personnages.TextSize = 14.000
+
+					ph.Name = "ph"
+					ph.Parent = Dimension1
+					ph.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+					ph.Position = UDim2.new(-0.000161119693, 0, 0.0682492554, 0)
+					ph.Size = UDim2.new(0, 151, 0, 31)
+					ph.Font = Enum.Font.SourceSans
+					ph.Text = "Force physique "
+					ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+					ph.TextSize = 14.000
+
+					_1TY.Name = "1TY"
+					_1TY.Parent = chakra
+					_1TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1TY.Size = UDim2.new(0, 279, 0, 59)
+					_1TY.Font = Enum.Font.SourceSans
+					_1TY.Text = "500 Arbre spirituel"
+					_1TY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1TY.TextSize = 14.000
+					_1TY.Text = "1T Bateau cerceuil"
+					_1TY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(188.089981, 77.5503387, 1411.86536)
+					end)
+
+					_100TY.Name = "100TY"
+					_100TY.Parent = chakra
+					_100TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100TY.Position = UDim2.new(-0.00359712238, 0, 0.25431034, 0)
+					_100TY.Size = UDim2.new(0, 281, 0, 55)
+					_100TY.Font = Enum.Font.SourceSans
+					_100TY.Text = "100T Anteiku"
+					_100TY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100TY.TextSize = 14.000
+					_100TY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2587.39673, 79.1357956, 913.013367)
+					end)
+
+					_1QDY.Name = "1QDY"
+					_1QDY.Parent = chakra
+					_1QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1QDY.Position = UDim2.new(0.00359712238, 0, 0.491786033, 0)
+					_1QDY.Size = UDim2.new(0, 280, 0, 58)
+					_1QDY.Font = Enum.Font.SourceSans
+					_1QDY.Text = "1QD Planète de Beerus"
+					_1QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1QDY.TextSize = 14.000
+					_1QDY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1468.45703, 1966.20313, 1414.0686)
+					end)
+
+					_100QDY.Name = "100QDY"
+					_100QDY.Parent = chakra
+					_100QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100QDY.Position = UDim2.new(0, 0, 0.743737817, 0)
+					_100QDY.Size = UDim2.new(0, 280, 0, 61)
+					_100QDY.Font = Enum.Font.SourceSans
+					_100QDY.Text = "100QD  Tsukuyomi infini"
+					_100QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100QDY.TextSize = 14.000
+					_100QDY.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3027.41553, 2024.37695, 824.885986)
+					end)
+
+					_1BY.Visible = false
+					TextButton_2.Visible = false
+					_1MY.Visible = false
+					_100MY.Visible = false
+					_1TY.Visible = true
+					_100TY.Visible = true
+					_1QDY.Visible = true
+					_100QDY.Visible = true
+
+					_1T.Name = "1T"
+					_1T.Parent = dura_2
+					_1T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1T.Size = UDim2.new(0, 279, 0, 59)
+					_1T.Font = Enum.Font.SourceSans
+					_1T.Text = "1T Titan colosalle "
+					_1T.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1T.TextSize = 14.000
+					_1T.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1806.83875, 331.224945, 1391.74048)
+					end)
+
+					_100T.Name = "100T"
+					_100T.Parent = dura_2
+					_100T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100T.Position = UDim2.new(-0.00359712238, 0, 0.25431034, 0)
+					_100T.Size = UDim2.new(0, 281, 0, 55)
+					_100T.Font = Enum.Font.SourceSans
+					_100T.Text = "100T Zone de roche gravito"
+					_100T.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100T.TextSize = 14.000
+					_100T.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3439.71582, 747.517639, -125.094833)
+					end)
+
+					_1QD.Name = "1QD"
+					_1QD.Parent = dura_2
+					_1QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1QD.Position = UDim2.new(0.00359712238, 0, 0.491786033, 0)
+					_1QD.Size = UDim2.new(0, 280, 0, 58)
+					_1QD.Font = Enum.Font.SourceSans
+					_1QD.Text = "1QD Palais de fer noir"
+					_1QD.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1QD.TextSize = 14.000
+					_1QD.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1067.46887, 231.007477, -2017.52673)
+					end)
+
+					_100QD.Name = "100QD"
+					_100QD.Parent = dura_2
+					_100QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100QD.Position = UDim2.new(0, 0, 0.743737817, 0)
+					_100QD.Size = UDim2.new(0, 280, 0, 61)
+					_100QD.Font = Enum.Font.SourceSans
+					_100QD.Text = "100QD Flame de crémation"
+					_100QD.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100QD.TextSize = 14.000
+					_100QD.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-757.624084, 61.0075188, 35.0773239)
+					end)
+
+					_1B.Visible = false
+					_100B.Visible = false
+					_10M.Visible = false
+					_100M.Visible = false
+					_1T.Visible = true
+					_100T.Visible = true
+					_1QD.Visible = true
+					_100QD.Visible = true
+
+					_1TX.Name = "1TX"
+					_1TX.Parent = ph_2
+					_1TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1TX.Size = UDim2.new(0, 279, 0, 59)
+					_1TX.Font = Enum.Font.SourceSans
+					_1TX.Text = "1T Rouleau de route"
+					_1TX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1TX.TextSize = 14.000
+					_1TX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(155.297455, 67.2311096, 717.894897)
+					end)
+
+					_100TX.Name = "100TX"
+					_100TX.Parent = ph_2
+					_100TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100TX.Position = UDim2.new(-0.00359712238, 0, 0.25431034, 0)
+					_100TX.Size = UDim2.new(0, 281, 0, 55)
+					_100TX.Font = Enum.Font.SourceSans
+					_100TX.Text = "100T Le monde interieur d'ichigo"
+					_100TX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100TX.TextSize = 14.000
+					_100TX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1726.23279, -211.904907, 230.607086)
+					end)
+
+					_1QDX.Name = "1QDX"
+					_1QDX.Parent = ph_2
+					_1QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_1QDX.Position = UDim2.new(0.00359712238, 0, 0.491786033, 0)
+					_1QDX.Size = UDim2.new(0, 280, 0, 58)
+					_1QDX.Font = Enum.Font.SourceSans
+					_1QDX.Text = "1QD Rocher incassable"
+					_1QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_1QDX.TextSize = 14.000
+					_1QDX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(814.361572, 238.007492, -476.712952)
+					end)
+
+					_100QDX.Name = "100QDX"
+					_100QDX.Parent = ph_2
+					_100QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+					_100QDX.Position = UDim2.new(0, 0, 0.743737817, 0)
+					_100QDX.Size = UDim2.new(0, 280, 0, 61)
+					_100QDX.Font = Enum.Font.SourceSans
+					_100QDX.Text = "100QD  exécuteur exécuteur"
+					_100QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
+					_100QDX.TextSize = 14.000
+					_100QDX.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2125.11475, 491.356873, -1735.50256)
+					end)
+
+					_1BX.Visible = false
+					_100BX.Visible = false
+					_1MX.Visible = false
+					_100MX.Visible = false
+					_1TX.Visible = true
+					_100TX.Visible = true
+					_1QDX.Visible = true
+					_100QDX.Visible = true
+
+				end
+			end
+			coroutine.resume(coroutine.create(SCRIPT_0000YYEV855_FAKESCRIPT))
+
+			function SCRIPT_000YEV855_FAKESCRIPT() -- tp to
+				if game.PlaceId == 5113678354 then
+					tpto_2.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(264.07605, 69.6074829, 433.278961)
+					end)
+				end
+				if game.PlaceId == 4042427666 then
+					tpto_2.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(23.153116226196, 80.006523132324, 22.740615844727)
+					end)
+				end
+				if game.PlaceId == 5113680396 then
+					tpto_2.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-986.90478515625, 647.20733642578, -1746.7038574219)
+					end)
+				end
+				if game.PlaceId == 5445525505 then
+					tpto_2.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-773.87115478516, 46.787715911865, 221.36274719238)
+					end)
+				end
+				if game.PlaceId == 6479720355 then
+					tpto_2.MouseButton1Down:connect(function()
+						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1229.6412353516, 153.9874420166, -565.92993164063)
+					end)
+				end
+			end
+			coroutine.resume(coroutine.create(SCRIPT_000YEV855_FAKESCRIPT))
+
+			_1.Name = "<1"
+			_1.Parent = fanime
+			_1.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			_1.Position = UDim2.new(0.00239409856, 0, 0, 0)
+			_1.Size = UDim2.new(0, 30, 0, 17)
+			_1.Font = Enum.Font.SourceSans
+			_1.Text = "<"
+			_1.TextColor3 = Color3.fromRGB(0, 170, 0)
+			_1.TextSize = 14.000
+
+			precedant_2.Name = "<1"
+			precedant_2.Parent = fanime
+			precedant_2.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			precedant_2.Position = UDim2.new(0.00239409856, 0, 0, 0)
+			precedant_2.Size = UDim2.new(0, 30, 0, 17)
+			precedant_2.Font = Enum.Font.SourceSans
+			precedant_2.Text = "<"
+			precedant_2.TextColor3 = Color3.fromRGB(0, 170, 0)
+			precedant_2.TextSize = 14.000
+			precedant_2.Visible = false
+			precedant_2.MouseButton1Down:connect(function()
+				_1_2.Visible = true
+				suivant_2.Visible = false
+				suivant_3.Visible = false
+				suivant_4.Visible = false
+				suivant_5.Visible = false
+				_1.Visible = true
+				precedant_2.Visible = false
+				precedant_3.Visible = false
+				precedant_4.Visible = false
+				precedant_5.Visible = false
+
+				dim.Text = "Dimension 1"
+			end)
+
+			precedant_3.Name = "<1"
+			precedant_3.Parent = fanime
+			precedant_3.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			precedant_3.Position = UDim2.new(0.00239409856, 0, 0, 0)
+			precedant_3.Size = UDim2.new(0, 30, 0, 17)
+			precedant_3.Font = Enum.Font.SourceSans
+			precedant_3.Text = "<"
+			precedant_3.TextColor3 = Color3.fromRGB(0, 170, 0)
+			precedant_3.TextSize = 14.000
+			precedant_3.Visible = false
+			precedant_3.MouseButton1Down:connect(function()
+				_1_2.Visible = false
+				suivant_2.Visible = true
+				suivant_3.Visible = false
+				suivant_4.Visible = false
+				suivant_5.Visible = false
+				_1.Visible = false
+				precedant_2.Visible = true
+				precedant_3.Visible = false
+				precedant_4.Visible = false
+				precedant_5.Visible = false
+
+				dim.Text = "Dimension 2"
+			end)
+
+			precedant_4.Name = "<1"
+			precedant_4.Parent = fanime
+			precedant_4.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			precedant_4.Position = UDim2.new(0.00239409856, 0, 0, 0)
+			precedant_4.Size = UDim2.new(0, 30, 0, 17)
+			precedant_4.Font = Enum.Font.SourceSans
+			precedant_4.Text = "<"
+			precedant_4.TextColor3 = Color3.fromRGB(0, 170, 0)
+			precedant_4.TextSize = 14.000
+			precedant_4.Visible = false
+			precedant_4.MouseButton1Down:connect(function()
+				_1_2.Visible = false
+				suivant_2.Visible = false
+				suivant_3.Visible = true
+				suivant_4.Visible = false
+				suivant_5.Visible = false
+				_1.Visible = false
+				precedant_2.Visible = false
+				precedant_3.Visible = true
+				precedant_4.Visible = false
+				precedant_5.Visible = false
+
+				dim.Text = "Dimension 3"
+			end)
+
+			precedant_5.Name = "<1"
+			precedant_5.Parent = fanime
+			precedant_5.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			precedant_5.Position = UDim2.new(0.00239409856, 0, 0, 0)
+			precedant_5.Size = UDim2.new(0, 30, 0, 17)
+			precedant_5.Font = Enum.Font.SourceSans
+			precedant_5.Text = "<"
+			precedant_5.TextColor3 = Color3.fromRGB(0, 170, 0)
+			precedant_5.TextSize = 14.000
+			precedant_5.Visible = false
+			precedant_5.MouseButton1Down:connect(function()
+				_1_2.Visible = false
+				suivant_2.Visible = false
+				suivant_3.Visible = false
+				suivant_4.Visible = true
+				suivant_5.Visible = false
+				_1.Visible = false
+				precedant_2.Visible = false
+				precedant_3.Visible = false
+				precedant_4.Visible = true
+				precedant_5.Visible = false
+
+				dim.Text = "Dimension 4"
+			end)
+
+			_1_2.Name = ">1"
+			_1_2.Parent = fanime
+			_1_2.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			_1_2.Position = UDim2.new(0.773003459, 0, 0, 0)
+			_1_2.Size = UDim2.new(0, 26, 0, 17)
+			_1_2.Font = Enum.Font.SourceSans
+			_1_2.Text = ">"
+			_1_2.TextColor3 = Color3.fromRGB(0, 170, 0)
+			_1_2.TextSize = 14.000
+
+			suivant_2.Name = ">1"
+			suivant_2.Parent = fanime
+			suivant_2.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			suivant_2.Position = UDim2.new(0.773003459, 0, 0, 0)
+			suivant_2.Size = UDim2.new(0, 26, 0, 17)
+			suivant_2.Font = Enum.Font.SourceSans
+			suivant_2.Text = ">"
+			suivant_2.TextColor3 = Color3.fromRGB(0, 170, 0)
+			suivant_2.TextSize = 14.000
+			suivant_2.Visible = false
+			suivant_2.MouseButton1Down:connect(function()
+				_1_2.Visible = false
+				suivant_2.Visible = false
+				suivant_3.Visible = true
+				suivant_4.Visible = false
+				suivant_5.Visible = false
+				_1.Visible = false
+				precedant_2.Visible = false
+				precedant_3.Visible = true
+				precedant_4.Visible = false
+				precedant_5.Visible = false
+
+				dim.Text = "Dimension 3"
+			end)
+
+			suivant_3.Name = ">1"
+			suivant_3.Parent = fanime
+			suivant_3.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			suivant_3.Position = UDim2.new(0.773003459, 0, 0, 0)
+			suivant_3.Size = UDim2.new(0, 26, 0, 17)
+			suivant_3.Font = Enum.Font.SourceSans
+			suivant_3.Text = ">"
+			suivant_3.TextColor3 = Color3.fromRGB(0, 170, 0)
+			suivant_3.TextSize = 14.000
+			suivant_3.Visible = false
+			suivant_3.MouseButton1Down:connect(function()
+				_1_2.Visible = false
+				suivant_2.Visible = false
+				suivant_3.Visible = false
+				suivant_4.Visible = true
+				suivant_5.Visible = false
+				_1.Visible = false
+				precedant_2.Visible = false
+				precedant_3.Visible = false
+				precedant_4.Visible = true
+				precedant_5.Visible = false
+
+				dim.Text = "Dimension 4"
+			end)
+
+			suivant_4.Name = ">1"
+			suivant_4.Parent = fanime
+			suivant_4.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			suivant_4.Position = UDim2.new(0.773003459, 0, 0, 0)
+			suivant_4.Size = UDim2.new(0, 26, 0, 17)
+			suivant_4.Font = Enum.Font.SourceSans
+			suivant_4.Text = ">"
+			suivant_4.TextColor3 = Color3.fromRGB(0, 170, 0)
+			suivant_4.TextSize = 14.000
+			suivant_4.Visible = false
+			suivant_4.MouseButton1Down:connect(function()
+				_1_2.Visible = false
+				suivant_2.Visible = false
+				suivant_3.Visible = false
+				suivant_4.Visible = false
+				suivant_5.Visible = true
+				_1.Visible = false
+				precedant_2.Visible = false
+				precedant_3.Visible = false
+				precedant_4.Visible = false
+				precedant_5.Visible = true
+
+				dim.Text = "Dimension 5"
+			end)
+
+			suivant_5.Name = ">1"
+			suivant_5.Parent = fanime
+			suivant_5.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			suivant_5.Position = UDim2.new(0.773003459, 0, 0, 0)
+			suivant_5.Size = UDim2.new(0, 26, 0, 17)
+			suivant_5.Font = Enum.Font.SourceSans
+			suivant_5.Text = ">"
+			suivant_5.TextColor3 = Color3.fromRGB(0, 170, 0)
+			suivant_5.TextSize = 14.000
+			suivant_5.Visible = false
+			suivant_4.MouseButton1Down:connect(function()
+				_1_2.Visible = true
+				suivant_2.Visible = false
+				suivant_3.Visible = false
+				suivant_4.Visible = false
+				suivant_5.Visible = false
+				_1.Visible = true
+				precedant_2.Visible = false
+				precedant_3.Visible = false
+				precedant_4.Visible = false
+				precedant_5.Visible = false
+
+				dim.Text = "Dimension 1"
+			end)
+
+			closeda.Name = "closeda"
+			closeda.Parent = fanime
+			closeda.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			closeda.Position = UDim2.new(0.863799334, 0, 0, 0)
+			closeda.Size = UDim2.new(0, 38, 0, 17)
+			closeda.Font = Enum.Font.SourceSans
+			closeda.Text = "X"
+			closeda.TextColor3 = Color3.fromRGB(255, 0, 0)
+			closeda.TextSize = 14.000
+
+			dima.Name = "dima"
+			dima.Parent = fanime
+			dima.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			dima.Position = UDim2.new(0.0609318987, 0, 0.201133147, 0)
+			dima.Size = UDim2.new(0, 200, 0, 50)
+			dima.Visible = false
+			dima.Font = Enum.Font.SourceSans
+			dima.TextColor3 = Color3.fromRGB(0, 0, 0)
+			dima.TextSize = 14.000
+
+			Dimension1.Name = "Dimension 1"
+			Dimension1.Parent = fanime
+			Dimension1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Dimension1.Position = UDim2.new(0, 0, 0.0481586419, 0)
+			Dimension1.Size = UDim2.new(0, 279, 0, 337)
+			Dimension1.Visible = true
+
+			agui.Name = "agui"
+			agui.Parent = Dimension1
+			agui.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			agui.Position = UDim2.new(0.738438606, 0, 0.160237387, 0)
+			agui.Size = UDim2.new(0, 73, 0, 31)
+			agui.Font = Enum.Font.SourceSans
+			agui.Text = "Agilite"
+			agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+			agui.TextSize = 14.000
+
+			chacra.Name = "chacra"
+			chacra.Parent = Dimension1
+			chacra.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			chacra.Font = Enum.Font.SourceSans
+			chacra.Text = "chakra"
+			chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+			chacra.TextSize = 14.000
+			chacra.MouseButton1Down:connect(function()
 				agi.Visible = false
-
-				ag1.Name = "ag1"
-				ag1.Parent = agi
-				ag1.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				ag1.Size = UDim2.new(0, 279, 0, 73)
-				ag1.Font = Enum.Font.SourceSans
-				ag1.Text = "100 trampoline"
-				ag1.TextColor3 = Color3.fromRGB(0, 0, 0)
-				ag1.TextSize = 14.000
-				ag1.MouseButton1Down:connect(function()
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(65, 65.0175171, 471)
-				end)
-
-				ag2.Name = "ag2"
-				ag2.Parent = agi
-				ag2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				ag2.Position = UDim2.new(0, 0, 0.319793433, 0)
-				ag2.Size = UDim2.new(0, 279, 0, 75)
-				ag2.Font = Enum.Font.SourceSans
-				ag2.Text = "10k chambre de Gravité"
-				ag2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				ag2.TextSize = 14.000
-				ag2.MouseButton1Down:connect(function()
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-404, 122.420708, -70)
-				end)
-
-				ag3.Name = "ag3"
-				ag3.Parent = agi
-				ag3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				ag3.Position = UDim2.new(0, 0, 0.648046315, 0)
-				ag3.Size = UDim2.new(0, 279, 0, 80)
-				ag3.Font = Enum.Font.SourceSans
-				ag3.Text = "Champ de kunai espace temp"
-				ag3.TextColor3 = Color3.fromRGB(0, 0, 0)
-				ag3.TextSize = 14.000
-				ag3.MouseButton1Down:connect(function()
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3508, 60.0075188, 162)
-				end)
-
-				spped.Name = "spped"
-				spped.Parent = Dimension1
-				spped.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				spped.Position = UDim2.new(-0.000161119693, 0, 0.317568004, 0)
-				spped.Size = UDim2.new(0, 279, 0, 230)
+				chakra.Visible = true
+				dura_2.Visible = false
+				menue.Visible = false
+				peso.Visible = false
+				ph_2.Visible = false
 				spped.Visible = false
+				agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+				chacra.TextColor3 = Color3.fromRGB(255, 0, 0)
+				dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+				me.TextColor3 = Color3.fromRGB(0, 0, 0)
+				personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+				ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+				speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			end)
 
-				sp1.Name = "sp1"
-				sp1.Parent = spped
-				sp1.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				sp1.Position = UDim2.new(0, 0, -0.0114773959, 0)
-				sp1.Size = UDim2.new(0, 280, 0, 78)
-				sp1.Font = Enum.Font.SourceSans
-				sp1.Text = "100 Tapis de Course"
-				sp1.TextColor3 = Color3.fromRGB(0, 0, 0)
-				sp1.TextSize = 14.000
-				sp1.MouseButton1Down:connect(function()
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-79, 61.2075195, -488)
-				end)
+			dura.Name = "dura"
+			dura.Parent = Dimension1
+			dura.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			dura.Font = Enum.Font.SourceSans
+			dura.Text = "durability"
+			dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+			dura.TextSize = 14.000
+			dura.MouseButton1Down:connect(function()
+				agi.Visible = false
+				chakra.Visible = false
+				dura_2.Visible = true
+				menue.Visible = false
+				peso.Visible = false
+				ph_2.Visible = false
+				spped.Visible = false
+				agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+				chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+				dura.TextColor3 = Color3.fromRGB(255, 0, 0)
+				me.TextColor3 = Color3.fromRGB(0, 0, 0)
+				personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+				ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+				speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			end)
 
-				sp2.Name = "sp2"
-				sp2.Parent = spped
-				sp2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				sp2.Position = UDim2.new(0.00255521829, 0, 0.332780123, 0)
-				sp2.Size = UDim2.new(0, 278, 0, 75)
-				sp2.Font = Enum.Font.SourceSans
-				sp2.Text = "10k chambre de Gravité"
-				sp2.TextColor3 = Color3.fromRGB(0, 0, 0)
-				sp2.TextSize = 14.000
-				sp2.MouseButton1Down:connect(function()
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-404, 122.420708, -70)
-				end)
+			me.Name = "me"
+			me.Parent = Dimension1
+			me.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			me.Font = Enum.Font.SourceSans
+			me.Text = "menue"
+			me.TextColor3 = Color3.fromRGB(0, 0, 0)
+			me.TextSize = 14.000
+			me.MouseButton1Down:connect(function()
+				agi.Visible = false
+				tpto_2.Visible = true
+				chakra.Visible = false
+				dura_2.Visible = false
+				menue.Visible = true
+				peso.Visible = false
+				ph_2.Visible = false
+				spped.Visible = false
+				agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+				chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+				dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+				me.TextColor3 = Color3.fromRGB(255, 0, 0)
+				personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+				ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+				speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			end)
 
-				sp3.Name = "sp3"
-				sp3.Parent = spped
-				sp3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				sp3.Position = UDim2.new(0, 0, 0.66015017, 0)
-				sp3.Size = UDim2.new(0, 280, 0, 88)
-				sp3.Font = Enum.Font.SourceSans
-				sp3.Text = "Champ de kunai espace temp"
-				sp3.TextColor3 = Color3.fromRGB(0, 0, 0)
-				sp3.TextSize = 14.000
-				sp3.MouseButton1Down:connect(function()
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3508, 60.0075188, 162)
-				end)
+			personnages.Name = "personnages"
+			personnages.Parent = Dimension1
+			personnages.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			personnages.Font = Enum.Font.SourceSans
+			personnages.Text = "personnages"
+			personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+			personnages.TextSize = 14.000
+			personnages.MouseButton1Down:connect(function()
+				agi.Visible = false
+				chakra.Visible = false
+				dura_2.Visible = false
+				menue.Visible = false
+				peso.Visible = true
+				ph_2.Visible = false
+				spped.Visible = false
+				agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+				chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+				dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+				me.TextColor3 = Color3.fromRGB(0, 0, 0)
+				personnages.TextColor3 = Color3.fromRGB(255, 0, 0)
+				ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+				speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			end)
 
-				TextLabel_2.Parent = fightinig
-				TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-				TextLabel_2.Position = UDim2.new(0.00239409856, 0, 0, 0)
-				TextLabel_2.Size = UDim2.new(0, 233, 0, 38)
-				TextLabel_2.Font = Enum.Font.SourceSans
-				TextLabel_2.Text = "Choisissez le jeu "
-				TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 0)
-				TextLabel_2.TextSize = 14.000
+			ph.Name = "ph"
+			ph.Parent = Dimension1
+			ph.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			ph.Font = Enum.Font.SourceSans
+			ph.Text = "Force physique "
+			ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ph.TextSize = 14.000
+			ph.MouseButton1Down:connect(function()
+				agi.Visible = false
+				chakra.Visible = false
+				dura_2.Visible = false
+				menue.Visible = false
+				peso.Visible = false
+				ph_2.Visible = true
+				spped.Visible = false
+				agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+				chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+				dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+				me.TextColor3 = Color3.fromRGB(0, 0, 0)
+				personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+				ph.TextColor3 = Color3.fromRGB(255, 0, 0)
+				speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			end)
 
-				cfalos.Name = "cfalos"
-				cfalos.Parent = fightinig
-				cfalos.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
-				cfalos.Position = UDim2.new(0.841103673, 0, -0.00448936922, 0)
-				cfalos.Size = UDim2.new(0, 45, 0, 39)
-				cfalos.Font = Enum.Font.SourceSans
-				cfalos.Text = "X"
-				cfalos.TextColor3 = Color3.fromRGB(255, 0, 0)
-				cfalos.TextSize = 14.000
+			speed_2.Name = "speed"
+			speed_2.Parent = Dimension1
+			speed_2.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			speed_2.Position = UDim2.new(0.677296579, 0, 0.0682492554, 0)
+			speed_2.Size = UDim2.new(0, 90, 0, 31)
+			speed_2.Font = Enum.Font.SourceSans
+			speed_2.Text = "vitesse"
+			speed_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			speed_2.TextSize = 14.000
+			speed_2.MouseButton1Down:connect(function()
+				agi.Visible = false
+				chakra.Visible = false
+				dura_2.Visible = false
+				menue.Visible = false
+				peso.Visible = false
+				ph_2.Visible = false
+				spped.Visible = true
+				agui.TextColor3 = Color3.fromRGB(0, 0, 0)
+				chacra.TextColor3 = Color3.fromRGB(0, 0, 0)
+				dura.TextColor3 = Color3.fromRGB(0, 0, 0)
+				me.TextColor3 = Color3.fromRGB(0, 0, 0)
+				personnages.TextColor3 = Color3.fromRGB(0, 0, 0)
+				ph.TextColor3 = Color3.fromRGB(0, 0, 0)
+				speed_2.TextColor3 = Color3.fromRGB(255, 0, 0)
+			end)
+
+			activith.Name = "activith"
+			activith.Parent = Dimension1
+			activith.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+			activith.Size = UDim2.new(0, 279, 0, 21)
+			activith.Font = Enum.Font.SourceSans
+			activith.Text = "Activites"
+			activith.TextColor3 = Color3.fromRGB(255, 255, 255)
+			activith.TextSize = 14.000
+
+			Emplacement.Name = "Emplacement"
+			Emplacement.Parent = Dimension1
+			Emplacement.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+			Emplacement.Position = UDim2.new(0.00239409856, 0, 0.252225518, 0)
+			Emplacement.Size = UDim2.new(0, 278, 0, 21)
+			Emplacement.Font = Enum.Font.SourceSans
+			Emplacement.Text = "Emplacement"
+			Emplacement.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Emplacement.TextSize = 14.000
+
+			dura_2.Name = "dura"
+			dura_2.Parent = Dimension1
+			dura_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			dura_2.Position = UDim2.new(-0.00266810041, 0, 0.314539969, 0)
+			dura_2.Size = UDim2.new(0, 279, 0, 230)
+			dura_2.Visible = false
+
+			_1T.Name = "1T"
+			_1T.Parent = dura_2
+			_1T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1T.Font = Enum.Font.SourceSans
+			_1T.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1T.TextSize = 14.000
+
+			_100T.Name = "100T"
+			_100T.Parent = dura_2
+			_100T.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100T.Font = Enum.Font.SourceSans
+			_100T.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100T.TextSize = 14.000
+
+			_1QD.Name = "1QD"
+			_1QD.Parent = dura_2
+			_1QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1QD.Font = Enum.Font.SourceSans
+			_1QD.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1QD.TextSize = 14.000
+
+			_100QD.Name = "100QD"
+			_100QD.Parent = dura_2
+			_100QD.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100QD.Font = Enum.Font.SourceSans
+			_100QD.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100QD.TextSize = 14.000
+
+			_10M.Name = "10M"
+			_10M.Parent = dura_2
+			_10M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_10M.Font = Enum.Font.SourceSans
+			_10M.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_10M.TextSize = 14.000
+
+			_100M.Name = "100M"
+			_100M.Parent = dura_2
+			_100M.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100M.Font = Enum.Font.SourceSans
+			_100M.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100M.TextSize = 14.000
+
+			_1B.Name = "1B"
+			_1B.Parent = dura_2
+			_1B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1B.Font = Enum.Font.SourceSans
+			_1B.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1B.TextSize = 14.000
+
+			_100B.Name = "100B"
+			_100B.Parent = dura_2
+			_100B.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100B.Font = Enum.Font.SourceSans
+			_100B.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100B.TextSize = 14.000
+
+			chakra.Name = "chakra"
+			chakra.Parent = Dimension1
+			chakra.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			chakra.Position = UDim2.new(0.00218096771, 0, 0.313199013, 0)
+			chakra.Size = UDim2.new(0, 278, 0, 232)
+			chakra.Visible = false
+
+			_1TY.Name = "1TY"
+			_1TY.Parent = chakra
+			_1TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1TY.Font = Enum.Font.SourceSans
+			_1TY.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1TY.TextSize = 14.000
+
+			_100TY.Name = "100TY"
+			_100TY.Parent = chakra
+			_100TY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100TY.Font = Enum.Font.SourceSans
+			_100TY.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100TY.TextSize = 14.000
+
+			_1QDY.Name = "1QDY"
+			_1QDY.Parent = chakra
+			_1QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1QDY.Font = Enum.Font.SourceSans
+			_1QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1QDY.TextSize = 14.000
+
+			_100QDY.Name = "100QDY"
+			_100QDY.Parent = chakra
+			_100QDY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100QDY.Font = Enum.Font.SourceSans
+			_100QDY.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100QDY.TextSize = 14.000
+
+			_1MY.Name = "1MY"
+			_1MY.Parent = chakra
+			_1MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1MY.Font = Enum.Font.SourceSans
+			_1MY.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1MY.TextSize = 14.000
+
+			_100MY.Name = "100MY"
+			_100MY.Parent = chakra
+			_100MY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100MY.Font = Enum.Font.SourceSans
+			_100MY.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100MY.TextSize = 14.000
+
+			_1BY.Name = "1BY"
+			_1BY.Parent = chakra
+			_1BY.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1BY.Font = Enum.Font.SourceSans
+			_1BY.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1BY.TextSize = 14.000
+
+			TextButton_2.Parent = chakra
+			TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			TextButton_2.Font = Enum.Font.SourceSans
+			TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			TextButton_2.TextSize = 14.000
+
+			peso.Name = "peso"
+			peso.Parent = Dimension1
+			peso.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			peso.Position = UDim2.new(0.0022485659, 0, 0.314540058, 0)
+			peso.Size = UDim2.new(0, 279, 0, 231)
+			peso.Visible = false
+
+			boum.Name = "boum"
+			boum.Parent = peso
+			boum.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			boum.Font = Enum.Font.SourceSans
+			boum.TextColor3 = Color3.fromRGB(0, 0, 0)
+			boum.TextSize = 14.000
+
+			kaneki.Name = "kaneki"
+			kaneki.Parent = peso
+			kaneki.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			kaneki.Font = Enum.Font.SourceSans
+			kaneki.TextColor3 = Color3.fromRGB(0, 0, 0)
+			kaneki.TextSize = 14.000
+
+
+			style.Name = "style"
+			style.Parent = peso
+			style.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			style.Font = Enum.Font.SourceSans
+			style.TextColor3 = Color3.fromRGB(0, 0, 0)
+			style.TextSize = 14.000
+
+			grimoire.Name = "grimoire"
+			grimoire.Parent = peso
+			grimoire.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			grimoire.Font = Enum.Font.SourceSans
+			grimoire.TextColor3 = Color3.fromRGB(0, 0, 0)
+			grimoire.TextSize = 14.000
+
+			gio.Name = "gio"
+			gio.Parent = peso
+			gio.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			gio.Font = Enum.Font.SourceSans
+			gio.TextColor3 = Color3.fromRGB(0, 0, 0)
+			gio.TextSize = 14.000
+
+			goules.Name = "goule"
+			goules.Parent = peso
+			goules.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			goules.Font = Enum.Font.SourceSans
+			goules.TextColor3 = Color3.fromRGB(0, 0, 0)
+			goules.TextSize = 14.000
+
+			aitr.Name = "aitr"
+			aitr.Parent = peso
+			aitr.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			aitr.Font = Enum.Font.SourceSans
+			aitr.TextColor3 = Color3.fromRGB(0, 0, 0)
+			aitr.TextSize = 14.000
+
+			aqui.Name = "aqui"
+			aqui.Parent = peso
+			aqui.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			aqui.Font = Enum.Font.SourceSans
+			aqui.TextColor3 = Color3.fromRGB(0, 0, 0)
+			aqui.TextSize = 14.000
+
+
+			ph_2.Name = "ph"
+			ph_2.Parent = Dimension1
+			ph_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			ph_2.Position = UDim2.new(-0.000161119693, 0, 0.314540058, 0)
+			ph_2.Size = UDim2.new(0, 279, 0, 231)
+			ph_2.Visible = false
+
+			_1TX.Name = "1TX"
+			_1TX.Parent = ph_2
+			_1TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1TX.Font = Enum.Font.SourceSans
+			_1TX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1TX.TextSize = 14.000
+
+			_100TX.Name = "100TX"
+			_100TX.Parent = ph_2
+			_100TX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100TX.Font = Enum.Font.SourceSans
+			_100TX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100TX.TextSize = 14.000
+
+			_1QDX.Name = "1QDX"
+			_1QDX.Parent = ph_2
+			_1QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1QDX.Font = Enum.Font.SourceSans
+			_1QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1QDX.TextSize = 14.000
+
+			_100QDX.Name = "100QDX"
+			_100QDX.Parent = ph_2
+			_100QDX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100QDX.Font = Enum.Font.SourceSans
+			_100QDX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100QDX.TextSize = 14.000
+
+			_1MX.Name = "1MX"
+			_1MX.Parent = ph_2
+			_1MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1MX.Font = Enum.Font.SourceSans
+			_1MX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1MX.TextSize = 14.000
+
+			_100MX.Name = "100MX"
+			_100MX.Parent = ph_2
+			_100MX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100MX.Font = Enum.Font.SourceSans
+			_100MX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100MX.TextSize = 14.000
+
+			_1BX.Name = "1BX"
+			_1BX.Parent = ph_2
+			_1BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_1BX.Font = Enum.Font.SourceSans
+			_1BX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_1BX.TextSize = 14.000
+
+			_100BX.Name = "100BX"
+			_100BX.Parent = ph_2
+			_100BX.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			_100BX.Font = Enum.Font.SourceSans
+			_100BX.TextColor3 = Color3.fromRGB(0, 0, 0)
+			_100BX.TextSize = 14.000
+
+			menue.Name = "menue "
+			menue.Parent = fanime
+			menue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			menue.Position = UDim2.new(-0.000161119693, 0, 0.347359776, 0)
+			menue.Size = UDim2.new(0, 279, 0, 218)
+			menue.Visible = false
+
+			ara.Name = "ara"
+			ara.Parent = menue
+			ara.BackgroundColor3 = Color3.fromRGB(170, 0, 127)
+			ara.Position = UDim2.new(0, 0, 0.00144899637, 0)
+			ara.Size = UDim2.new(0, 279, 0, 110)
+			ara.Font = Enum.Font.SourceSans
+			ara.Text = "Chikara farm "
+			ara.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ara.TextSize = 14.000
+			ara.MouseButton1Down:connect(function()
+				_G.on = true
+				while _G.on do
+					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Workspace.MouseIgnore.ChikaraCrate.ClickBox.CFrame
+					wait(4)
+				end
+			end)
+
+			tpto_2.Name = "tpto"
+			tpto_2.Parent = menue
+			tpto_2.BackgroundColor3 = Color3.fromRGB(170, 0, 127)
+			tpto_2.Position = UDim2.new(0, 0, 0.50597918, 0)
+			tpto_2.Size = UDim2.new(0, 279, 0, 123)
+			tpto_2.Font = Enum.Font.SourceSans
+			tpto_2.Text = "Tp to spawn"
+			tpto_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			tpto_2.TextSize = 14.000
+			tpto_2.Visible = false
+
+			agi.Name = "agi"
+			agi.Parent = Dimension1
+			agi.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			agi.Position = UDim2.new(-0.000161119693, 0, 0.320128769, 0)
+			agi.Size = UDim2.new(0, 279, 0, 230)
+			agi.Visible = false
+
+			ag1.Name = "ag1"
+			ag1.Parent = agi
+			ag1.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			ag1.Size = UDim2.new(0, 279, 0, 73)
+			ag1.Font = Enum.Font.SourceSans
+			ag1.Text = "100 trampoline"
+			ag1.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ag1.TextSize = 14.000
+			ag1.MouseButton1Down:connect(function()
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(65, 65.0175171, 471)
+			end)
+
+			ag2.Name = "ag2"
+			ag2.Parent = agi
+			ag2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			ag2.Position = UDim2.new(0, 0, 0.319793433, 0)
+			ag2.Size = UDim2.new(0, 279, 0, 75)
+			ag2.Font = Enum.Font.SourceSans
+			ag2.Text = "10k chambre de Gravité"
+			ag2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ag2.TextSize = 14.000
+			ag2.MouseButton1Down:connect(function()
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-404, 122.420708, -70)
+			end)
+
+			ag3.Name = "ag3"
+			ag3.Parent = agi
+			ag3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			ag3.Position = UDim2.new(0, 0, 0.648046315, 0)
+			ag3.Size = UDim2.new(0, 279, 0, 80)
+			ag3.Font = Enum.Font.SourceSans
+			ag3.Text = "Champ de kunai espace temp"
+			ag3.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ag3.TextSize = 14.000
+			ag3.MouseButton1Down:connect(function()
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3508, 60.0075188, 162)
+			end)
+
+			spped.Name = "spped"
+			spped.Parent = Dimension1
+			spped.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			spped.Position = UDim2.new(-0.000161119693, 0, 0.317568004, 0)
+			spped.Size = UDim2.new(0, 279, 0, 230)
+			spped.Visible = false
+
+			sp1.Name = "sp1"
+			sp1.Parent = spped
+			sp1.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			sp1.Position = UDim2.new(0, 0, -0.0114773959, 0)
+			sp1.Size = UDim2.new(0, 280, 0, 78)
+			sp1.Font = Enum.Font.SourceSans
+			sp1.Text = "100 Tapis de Course"
+			sp1.TextColor3 = Color3.fromRGB(0, 0, 0)
+			sp1.TextSize = 14.000
+			sp1.MouseButton1Down:connect(function()
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-79, 61.2075195, -488)
+			end)
+
+			sp2.Name = "sp2"
+			sp2.Parent = spped
+			sp2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			sp2.Position = UDim2.new(0.00255521829, 0, 0.332780123, 0)
+			sp2.Size = UDim2.new(0, 278, 0, 75)
+			sp2.Font = Enum.Font.SourceSans
+			sp2.Text = "10k chambre de Gravité"
+			sp2.TextColor3 = Color3.fromRGB(0, 0, 0)
+			sp2.TextSize = 14.000
+			sp2.MouseButton1Down:connect(function()
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-404, 122.420708, -70)
+			end)
+
+			sp3.Name = "sp3"
+			sp3.Parent = spped
+			sp3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			sp3.Position = UDim2.new(0, 0, 0.66015017, 0)
+			sp3.Size = UDim2.new(0, 280, 0, 88)
+			sp3.Font = Enum.Font.SourceSans
+			sp3.Text = "Champ de kunai espace temp"
+			sp3.TextColor3 = Color3.fromRGB(0, 0, 0)
+			sp3.TextSize = 14.000
+			sp3.MouseButton1Down:connect(function()
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(3508, 60.0075188, 162)
+			end)
+
+			TextLabel_2.Parent = fightinig
+			TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			TextLabel_2.Position = UDim2.new(0.00239409856, 0, 0, 0)
+			TextLabel_2.Size = UDim2.new(0, 233, 0, 38)
+			TextLabel_2.Font = Enum.Font.SourceSans
+			TextLabel_2.Text = "Choisissez le jeu "
+			TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 0)
+			TextLabel_2.TextSize = 14.000
+
+			cfalos.Name = "cfalos"
+			cfalos.Parent = fightinig
+			cfalos.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+			cfalos.Position = UDim2.new(0.841103673, 0, -0.00448936922, 0)
+			cfalos.Size = UDim2.new(0, 45, 0, 39)
+			cfalos.Font = Enum.Font.SourceSans
+			cfalos.Text = "X"
+			cfalos.TextColor3 = Color3.fromRGB(255, 0, 0)
+			cfalos.TextSize = 14.000

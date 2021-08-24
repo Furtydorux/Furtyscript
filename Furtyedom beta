@@ -119,6 +119,8 @@ local Gameselcted = false -- For the game hub button
 local buildhouseit = false -- For the buildhouse button
 local antiafktoogle = false -- For the antiafk button
 local viewrespawns = false -- For the respawn button
+local gpstoggle = false -- For the gps button
+local statstoggle = false -- >For the stats button
 
 --Properties:
 
@@ -8888,11 +8890,6 @@ buildhouse.TextColor3 = Color3.fromRGB(0, 0, 0)
 buildhouse.TextSize = 14.000
 buildhouse.MouseButton1Down:connect(function()
 	if buildhouseit == false then
-		
-		
-		buildhouseit = true
-		
-		
 		if (script:FindFirstChild("forCustomRun")~=nil) then
 			local sc = script["forCustomRun"].Value
 			assert(loadstring(sc))()
@@ -13733,7 +13730,7 @@ buildhouse.MouseButton1Down:connect(function()
 
 		wait(1)
 		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-15.14155292511, 3.6965765953064, 41.227478027344)
-		buildhouse.Name = "buildhouse1"
+		buildhouseit = true
 
 		mouse = game.Players.LocalPlayer:GetMouse()
 		tool = Instance.new("Tool")
@@ -13747,18 +13744,15 @@ buildhouse.MouseButton1Down:connect(function()
 
 	end
 	if buildhouseit == true then
-			mouse = game.Players.LocalPlayer:GetMouse()
-			tool = Instance.new("Tool")
-			tool.RequiresHandle = false
-			tool.Name = "House"
-			tool.Activated:connect(function()
+		mouse = game.Players.LocalPlayer:GetMouse()
+		tool = Instance.new("Tool")
+		tool.RequiresHandle = false
+		tool.Name = "House"
+		tool.Activated:connect(function()
 				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-15.14155292511, 3.6965765953064, 41.227478027344)
-			end)
-			tool.Parent = game.Players.LocalPlayer.Backpack
-	end
-end)
-buildhouse.MouseButton1Down:connect(function()
-	if buildhouseit == false then
+		end)
+		tool.Parent = game.Players.LocalPlayer.Backpack
+		
 		while game:GetService("Workspace")[game.Players.LocalPlayer.Name].Humanoid.Health == 0 do wait(7)	
 			mouse = game.Players.LocalPlayer:GetMouse()
 			tool = Instance.new("Tool")
@@ -13771,7 +13765,6 @@ buildhouse.MouseButton1Down:connect(function()
 		end
 	end
 end)
-
 
 Invisible.Name = "Invisible"
 Invisible.Parent = Outilis
@@ -13849,12 +13842,21 @@ gps.Font = Enum.Font.SourceSans
 gps.Text = "Gps"
 gps.TextColor3 = Color3.fromRGB(255, 0, 0)
 gps.TextSize = 14.000
-gps.MouseButton1Down:connect(function()
-	gps_2.Visible = true
-	gps.Visible = false
-	gps1.Visible = true
-	stats_2.TextColor3 = Color3.fromRGB(255, 0, 0)
-	stats.Visible = false
+gps.MouseButton1Down:connect(function()	
+	if gpstoggle == true then
+		gps_2.Visible = false
+		gpstoggle = false
+		gps.TextColor3 = Color3.fromRGB(255, 0, 0)
+	else
+		gps_2.Visible = true
+		gpstoggle = true
+		gps.TextColor3 = Color3.fromRGB(0, 255, 0)
+	end
+	if statstoggle == true then
+		stats_2.TextColor3 = Color3.fromRGB(255, 0, 0)
+		stats.Visible = false
+		statstoggle = false
+	end
 end)
 
 antiafk1.Name = "antiafk1"
@@ -14026,8 +14028,6 @@ vit.Text = "Outilis vitale"
 vit.TextColor3 = Color3.fromRGB(255, 255, 255)
 vit.TextSize = 14.000
 
-
-
 View.Name = "View"
 View.Parent = Outilis
 View.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
@@ -14071,7 +14071,6 @@ View.MouseButton1Down:connect(function()
 		View.TextColor3 = Color3.fromRGB(0, 255, 0)
 	end
 end)
-
 
 ESP.Name = "ESP"
 ESP.Parent = Outilis
@@ -14362,7 +14361,6 @@ gps_2.Active = true
 gps_2.Draggable = false
 gps_2.Visible = false
 
-
 T.Name = "T"
 T.Parent = gps_2
 T.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -14403,7 +14401,6 @@ upd.MouseButton1Down:connect(function()
 		Keylower.Visible = false
 	end
 end)
-
 
 tpto.Name = "tpto"
 tpto.Parent = gps_2
@@ -14456,24 +14453,6 @@ local function GMIYA_fake_script() -- T.LocalScript
 	T.Text = tostring(game.Players.LocalPlayer.Character:WaitForChild("HumanoidRootPart").Position)
 end
 coroutine.wrap(GMIYA_fake_script)()
-
-
-
-gps1.Name = "gps1"
-gps1.Parent = Outilis
-gps1.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
-gps1.Position = UDim2.new(0.49813053, 0, 0.554671526, 0)
-gps1.Size = UDim2.new(0, 65, 0, 29)
-gps1.Visible = false
-gps1.Font = Enum.Font.SourceSans
-gps1.Text = "Gps"
-gps1.TextColor3 = Color3.fromRGB(0, 255, 0)
-gps1.TextSize = 14.000
-gps1.MouseButton1Down:connect(function()
-	gps_2.Visible = false
-	gps.Visible = true
-	gps1.Visible = false
-end)
 
 stats.Name = "stats"
 stats.Parent = Outilis
@@ -14572,20 +14551,19 @@ stats_2.Text = "Stats"
 stats_2.TextColor3 = Color3.fromRGB(255, 0, 0)
 stats_2.TextSize = 14.000
 stats_2.MouseButton1Down:connect(function()
-	if stats_2.TextColor3 == Color3.fromRGB(255, 0, 0) then
+	if statstoggle == false then
 		stats_2.TextColor3 = Color3.fromRGB(0, 255, 0)
+		stats.Visible = true
+		statstoggle = true
 	else
 		stats_2.TextColor3 = Color3.fromRGB(255, 0, 0)
-	end
-end)
-stats_2.MouseButton1Down:connect(function()
-	if stats.Visible == false then
-		stats.Visible = true
-		gps_2.Visible = false
-		gps.Visible = true
-		gps1.Visible = false
-	else
+		statstoggle = false
 		stats.Visible = false
+	end
+	if gpstoggle == true then
+		gps_2.Visible = false
+		gpstoggle = false
+		gps.TextColor3 = Color3.fromRGB(255, 0, 0)
 	end
 end)
 
@@ -17659,6 +17637,8 @@ PlayerName.TextColor3 = Color3.new(1, 1, 1)
 PlayerName.TextSize = 18
 PlayerName.TextStrokeTransparency = 0
 PlayerName.Visible = false
+
+-- Function
 
 function SCRIPT_HYTP71_FAKESCRIPT() -- Player1.GetPlayerName 
 	local script = Instance.new('LocalScript')

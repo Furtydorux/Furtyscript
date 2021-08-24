@@ -8852,7 +8852,6 @@ CLiktp.MouseButton1Down:connect(function()
 	end)
 end)
 
-
 Godmode.Name = "God mode"
 Godmode.Parent = Outilis
 Godmode.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
@@ -8877,7 +8876,6 @@ Godmode.MouseButton1Down:connect(function()
 		player.Character.Animate.Disabled = false
 	end
 end)
-
 
 buildhouse.Name = "buildhouse"
 buildhouse.Parent = Outilis
@@ -13763,6 +13761,12 @@ buildhouse.MouseButton1Down:connect(function()
 			end)
 			tool.Parent = game.Players.LocalPlayer.Backpack
 		end
+		
+		Mouse.KeyDown:Connect(function(k)
+			if k == "h" then
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-15.14155292511, 3.6965765953064, 41.227478027344)
+			end
+		end)
 	end
 end)
 
@@ -14040,8 +14044,7 @@ View.TextColor3 = Color3.fromRGB(255, 0, 0)
 View.TextSize = 14.000
 View.MouseButton1Down:connect(function()
 	local blah = (game.Players.LocalPlayer.Name)
-	
-	while viewrespawns == true do wait(0.1)
+	if viewrespawns == true then
 		if game:GetService("Workspace")[blah].Humanoid.Health == 0 then
 			PositionSaved = game.Players.LocalPlayer.character.HumanoidRootPart.Position
 			game:GetService("StarterGui"):SetCore("SendNotification", {
@@ -18154,7 +18157,6 @@ function SCRIPT_TWMY80_FAKESCRIPT() -- MainGUI.LocalScript
 
 end
 coroutine.resume(coroutine.create(SCRIPT_TWMY80_FAKESCRIPT))
-
 function SCRIPT_GVGT66_FAKESCRIPT() -- Noclip.Noclip 
 	local script = Instance.new('LocalScript')
 	script.Parent = Noclip
@@ -18360,7 +18362,16 @@ function SCRIPT_ZXKM71_FAKESCRIPT() -- Fly.Fly
 
 end
 coroutine.resume(coroutine.create(SCRIPT_ZXKM71_FAKESCRIPT))
-
+function SCRIPT_KEYHOUSE_FAKESCRIPT() -- House
+	if buildhouseit == true then
+		Mouse.KeyDown:Connect(function(k)
+			if k == "h" then
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-15.14155292511, 3.6965765953064, 41.227478027344)
+			end
+		end)
+	end
+end
+coroutine.resume(coroutine.create(SCRIPT_KEYHOUSE_FAKESCRIPT))
 wait(1)
 local function callback(text)
 	if text == "Yes" then

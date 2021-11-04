@@ -6659,8 +6659,197 @@ Game.MouseButton1Down:connect(function() -- Jeux activation
 				end
 			end)
 		end
-		if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 then -- P
+		if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 then 
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded"))()
+		end
+		if game.PlaceId == 7553566159 then 
+			-- Gui to Lua
+			-- Version:
+			-- Revamped by Typical_RBLX 3.2
+
+			-- Instances:
+			local Squid = Instance.new("Frame")
+			local dim = Instance.new("TextButton")
+			local _1 = Instance.new("TextButton")
+			local _1_2 = Instance.new("TextButton")
+			local closeda = Instance.new("TextButton")
+			local dima = Instance.new("TextBox")
+			local menue = Instance.new("Frame")
+			local ara = Instance.new("TextButton")
+			local tpto = Instance.new("TextButton")
+			local ballfir = Instance.new("TextButton")
+			local parces = Instance.new("TextButton")
+			local ballfisr = Instance.new("TextButton")
+
+			--Properties:
+
+
+			Squid.Name = "Squid"
+			Squid.Parent = GameHub
+			Squid.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Squid.Size = UDim2.new(0, 279, 0, 354)
+			Squid.Active = true
+			Squid.Draggable = true
+
+
+			dim.Name = "dim"
+			dim.Parent = Squid
+			dim.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			dim.Position = UDim2.new(0.109920979, 0, 0, 0)
+			dim.Size = UDim2.new(0, 186, 0, 17)
+			dim.Font = Enum.Font.SourceSans
+			dim.Text = "Squid Game"
+			dim.TextColor3 = Color3.fromRGB(0, 0, 0)
+			dim.TextSize = 14.000
+
+			_1.Name = "<1"
+			_1.Parent = Squid
+			_1.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			_1.Position = UDim2.new(0.00239409856, 0, 0, 0)
+			_1.Size = UDim2.new(0, 30, 0, 17)
+			_1.Font = Enum.Font.SourceSans
+			_1.Text = "<"
+			_1.TextColor3 = Color3.fromRGB(0, 170, 0)
+			_1.TextSize = 14.000
+
+			_1_2.Name = ">1"
+			_1_2.Parent = Squid
+			_1_2.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			_1_2.Position = UDim2.new(0.773003459, 0, 0, 0)
+			_1_2.Size = UDim2.new(0, 26, 0, 17)
+			_1_2.Font = Enum.Font.SourceSans
+			_1_2.Text = ">"
+			_1_2.TextColor3 = Color3.fromRGB(0, 170, 0)
+			_1_2.TextSize = 14.000
+
+			closeda.Name = "closeda"
+			closeda.Parent = Squid
+			closeda.BackgroundColor3 = Color3.fromRGB(170, 85, 127)
+			closeda.Position = UDim2.new(0.863799334, 0, 0, 0)
+			closeda.Size = UDim2.new(0, 38, 0, 17)
+			closeda.Font = Enum.Font.SourceSans
+			closeda.Text = "X"
+			closeda.TextColor3 = Color3.fromRGB(255, 0, 0)
+			closeda.TextSize = 14.000
+
+			dima.Name = "dima"
+			dima.Parent = Squid
+			dima.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			dima.Position = UDim2.new(0.0609318987, 0, 0.201133147, 0)
+			dima.Size = UDim2.new(0, 200, 0, 50)
+			dima.Visible = false
+			dima.Font = Enum.Font.SourceSans
+			dima.Text = "DImension 1"
+			dima.TextColor3 = Color3.fromRGB(0, 0, 0)
+			dima.TextSize = 14.000
+
+			menue.Name = "menue "
+			menue.Parent = Squid
+			menue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			menue.Position = UDim2.new(0.000113210372, 0, 0.048022598, 0)
+			menue.Size = UDim2.new(0, 279, 0, 338)
+			menue.Active = true
+			menue.Draggable = false
+
+
+			ara.Name = "ara"
+			ara.Parent = menue
+			ara.BackgroundColor3 = Color3.fromRGB(255, 170, 0)
+			ara.Position = UDim2.new(0.00358422939, 0, 0.00310304179, 0)
+			ara.Size = UDim2.new(0, 279, 0, 62)
+			ara.Font = Enum.Font.SourceSans
+			ara.Text = "Gagner 1,2,3 soleil"
+			ara.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ara.TextSize = 14.000
+			ara.MouseButton1Down:connect(function()  
+				wait(0,5)
+				PositionSaved = game.Players.LocalPlayer.character.HumanoidRootPart.Position
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-101.96095275879, 6.1075291633606, -651.02770996094)
+				wait(2,5)
+				game.Players.LocalPlayer.character.HumanoidRootPart.CFrame = CFrame.new(PositionSaved) + Vector3.new(0,0,0)
+			end)
+
+			tpto.Name = "tpto"
+			tpto.Parent = menue
+			tpto.BackgroundColor3 = Color3.fromRGB(255, 170, 0)
+			tpto.Position = UDim2.new(0, 0, 0.391915232, 0)
+			tpto.Size = UDim2.new(0, 279, 0, 70)
+			tpto.Font = Enum.Font.SourceSans
+			tpto.Text = "Gagner le parcours"
+			tpto.TextColor3 = Color3.fromRGB(0, 0, 0)
+			tpto.TextSize = 14.000
+			tpto.MouseButton1Down:connect(function() 
+				PositionSaved = game.Players.LocalPlayer.character.HumanoidRootPart.Position
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(108.64719390869, -73.906402587891, -87.474006652832)
+				wait(1)
+				game.Players.LocalPlayer.character.HumanoidRootPart.CFrame = CFrame.new(PositionSaved) + Vector3.new(0,0,0)
+			end)
+
+			ballfir.Name = "ballfir"
+			ballfir.Parent = menue
+			ballfir.BackgroundColor3 = Color3.fromRGB(255, 170, 0)
+			ballfir.Position = UDim2.new(0.00358422939, 0, 0.181553409, 0)
+			ballfir.Size = UDim2.new(0, 279, 0, 72)
+			ballfir.Font = Enum.Font.SourceSans
+			ballfir.Text = "Bataille de la nuit 1 survie"
+			ballfir.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ballfir.TextSize = 14.000
+			ballfir.MouseButton1Down:connect(function() 
+				PositionSaved = game.Players.LocalPlayer.character.HumanoidRootPart.Position
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-131.29360961914, -103.39247131348, -393.78067016602)
+				wait(130)
+				game.Players.LocalPlayer.character.HumanoidRootPart.CFrame = CFrame.new(PositionSaved) + Vector3.new(0,0,0)
+			end)
+
+			parces.Name = "parces"
+			parces.Parent = menue
+			parces.BackgroundColor3 = Color3.fromRGB(255, 170, 0)
+			parces.Position = UDim2.new(0.00358422939, 0, 0.803157628, 0)
+			parces.Size = UDim2.new(0, 279, 0, 65)
+			parces.Font = Enum.Font.SourceSans
+			parces.Text = "Gagner le parcours dans le vide"
+			parces.TextColor3 = Color3.fromRGB(0, 0, 0)
+			parces.TextSize = 14.000
+			parces.MouseButton1Down:connect(function() 
+				PositionSaved = game.Players.LocalPlayer.character.HumanoidRootPart.Position
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.17343139648, -125.46746063232, -354.91012573242)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-339.4299621582, -125.46746063232, -355.2151184082)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.89682006836, -125.46746063232, -344.34652709961)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.87072753906, -125.46746063232, -344.57223510742)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-331.63119506836, -125.46746063232, -332.91500854492)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.08636474609, -125.93831634521, -333.8489074707)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.56729125977, -125.46746063232, -322.41796875)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.14471435547, -125.46746063232, -323.12344360352)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.80310058594, -125.46746063232, -311.18276977539)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.92044067383, -126.21092224121, -310.77465820313)
+				wait(0,1)
+				game.Players.LocalPlayer.character.HumanoidRootPart.CFrame = CFrame.new(PositionSaved) + Vector3.new(0,0,0)
+			end)
+
+			ballfisr.Name = "ballfisr"
+			ballfisr.Parent = menue
+			ballfisr.BackgroundColor3 = Color3.fromRGB(255, 170, 0)
+			ballfisr.Position = UDim2.new(0.00358422939, 0, 0.599015832, 0)
+			ballfisr.Size = UDim2.new(0, 279, 0, 68)
+			ballfisr.Font = Enum.Font.SourceSans
+			ballfisr.Text = "Bataille de la nuit 2 survie"
+			ballfisr.TextColor3 = Color3.fromRGB(0, 0, 0)
+			ballfisr.TextSize = 14.000
+			ballfisr.MouseButton1Down:connect(function() 
+				PositionSaved = game.Players.LocalPlayer.character.HumanoidRootPart.Position
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-131.29360961914, -103.39247131348, -393.78067016602)
+				wait(130)
+				game.Players.LocalPlayer.character.HumanoidRootPart.CFrame = CFrame.new(PositionSaved) + Vector3.new(0,0,0)
+			end)
 		end
 	end
 	if 	Gameselcted == false then
@@ -16317,7 +16506,6 @@ wait(1)
 local function callback(text)
 	if text == "Yes" then
 		print("User said yes")
-		
 	elseif text == "No" then
 		print("User said no")
 	end
@@ -16328,6 +16516,7 @@ function SCRIPT_CONTROL_FAKESCRIPT()
 	loadstring(game:HttpGet("https://pastebin.com/raw/HSQkUPWJ"))()
 end
 coroutine.resume(coroutine.create(SCRIPT_CONTROL_FAKESCRIPT))
+
 
 local bindableFunction= Instance.new("BindableFunction")
 

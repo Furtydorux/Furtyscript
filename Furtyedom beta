@@ -6659,7 +6659,7 @@ Game.MouseButton1Down:connect(function() -- Jeux activation
 				end
 			end)
 		end
-		if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 then 
+		if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635  then 
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded"))()
 		end
 		if game.PlaceId == 7553566159 then 
@@ -6831,6 +6831,42 @@ Game.MouseButton1Down:connect(function() -- Jeux activation
 				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.80310058594, -125.46746063232, -311.18276977539)
 				wait(0,1)
 				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.92044067383, -126.21092224121, -310.77465820313)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.01501464844, -125.46746063232, -300.40841674805)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.45547485352, -125.46746063232, -300.33148193359)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-331.84167480469, -125.46746063232, -289.68157958984)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.64154052734, -125.46746063232, -289.23345947266)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.90655517578, -125.46746063232, -278.23052978516)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-341.81954956055, -125.46746063232, -278.54635620117)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.24685668945, -125.46746063232, -267.15985107422)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-339.85739135742, -125.46746063232, -268.20358276367)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-333.02169799805, -126.51860046387, -257.00393676758)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.32723999023, -125.46746063232, -256.86462402344)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-331.28967285156, -125.46746063232, -245.16188049316)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-339.94635009766, -125.46746063232, -245.69848632813)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-332.78118896484, -125.46746063232, -234.09426879883)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-341.17227172852, -125.46746063232, -234.20574951172)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-331.7825012207, -125.46746063232, -222.65853881836)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.35870361328, -125.46746063232, -223.48988342285)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-333.68753051758, -125.46746063232, -211.99925231934)
+				wait(0,1)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-340.85479736328, -125.46746063232, -211.69976806641)
 				wait(0,1)
 				game.Players.LocalPlayer.character.HumanoidRootPart.CFrame = CFrame.new(PositionSaved) + Vector3.new(0,0,0)
 			end)
@@ -16516,7 +16552,6 @@ function SCRIPT_CONTROL_FAKESCRIPT()
 	loadstring(game:HttpGet("https://pastebin.com/raw/HSQkUPWJ"))()
 end
 coroutine.resume(coroutine.create(SCRIPT_CONTROL_FAKESCRIPT))
-
 
 local bindableFunction= Instance.new("BindableFunction")
 

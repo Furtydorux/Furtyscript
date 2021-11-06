@@ -6659,8 +6659,21 @@ Game.MouseButton1Down:connect(function() -- Jeux activation
 				end
 			end)
 		end
-		if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635  then 
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded"))()
+		if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635  then 		
+			local blsoef = false
+			
+			Autofarm.Visible = true
+			Autofarm.Text = "1er mode menue"
+			Autofarm.MouseButton1Down:connect(function()
+				if blsoef == false then
+					loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded"))()
+					local blsoef = true
+				end
+				if blsoef == true then
+					loadstring(game:HttpGet("https://pastebin.com/raw/1EQmGiQr", true))()
+					Autofarm.Visible = false
+				end
+			end)
 		end
 		if game.PlaceId == 7553566159 then 
 			-- Gui to Lua
@@ -16549,11 +16562,12 @@ end
 
 function SCRIPT_CONTROL_FAKESCRIPT() 
 	wait(60)
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Furtydorux/Furtyscript/main/Furtyedom"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Furtydorux/Furtyscript/main/Anime%20fighting"))()
 end
 coroutine.resume(coroutine.create(SCRIPT_CONTROL_FAKESCRIPT))
 
 local bindableFunction= Instance.new("BindableFunction")
+
 
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Furtymod";

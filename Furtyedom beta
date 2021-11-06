@@ -6667,7 +6667,8 @@ Game.MouseButton1Down:connect(function() -- Jeux activation
 			Autofarm.MouseButton1Down:connect(function()
 				if blsoef == false then
 					loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded"))()
-					local blsoef = true
+					blsoef = true
+					Autofarm.Text = "2ème mode menue"
 				end
 				if blsoef == true then
 					loadstring(game:HttpGet("https://pastebin.com/raw/1EQmGiQr", true))()
@@ -16567,7 +16568,6 @@ end
 coroutine.resume(coroutine.create(SCRIPT_CONTROL_FAKESCRIPT))
 
 local bindableFunction= Instance.new("BindableFunction")
-
 
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Furtymod";
